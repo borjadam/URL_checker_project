@@ -1,504 +1,504 @@
-2024-09-17 21:26:46,733:INFO:Processed https://foursquare.com/: 11 <script> tags.
-2024-09-17 21:26:46,793:INFO:Processed https://vice.com/: 24 <script> tags.
-2024-09-17 21:26:46,820:INFO:Processed https://urbandictionary.com/: 18 <script> tags.
-2024-09-17 21:26:46,929:INFO:Processed https://disney.go.com/: 1 <script> tags.
-2024-09-17 21:26:47,030:INFO:Processed https://medium.com/: 15 <script> tags.
-2024-09-17 21:26:47,075:INFO:Processed https://vox.com/: 23 <script> tags.
-2024-09-17 21:26:47,223:INFO:Processed https://channel4.com/: 10 <script> tags.
-2024-09-17 21:26:47,277:INFO:Processed https://harvard.edu/: 20 <script> tags.
-2024-09-17 21:26:47,396:INFO:Processed https://shutterstock.com/: 33 <script> tags.
-2024-09-17 21:26:47,542:INFO:Processed https://forbes.com/: 16 <script> tags.
-2024-09-17 21:26:47,561:INFO:Processed https://www.canalblog.com/: 14 <script> tags.
-2024-09-17 21:26:47,622:INFO:Processed https://googleblog.com/: 10 <script> tags.
-2024-09-17 21:26:47,624:INFO:Processed https://google.de/: 13 <script> tags.
-2024-09-17 21:26:47,638:INFO:Processed https://archives.gov/: 11 <script> tags.
-2024-09-17 21:26:47,884:ERROR:Error processing https://000webhost.com/: 403 Client Error: Forbidden for url: https://000webhost.com/
-2024-09-17 21:26:48,073:INFO:Processed https://booking.com/: 172 <script> tags.
-2024-09-17 21:26:48,087:INFO:Processed https://noaa.gov/: 61 <script> tags.
-2024-09-17 21:26:48,238:INFO:Processed https://ria.ru/: 87 <script> tags.
-2024-09-17 21:26:48,248:INFO:Processed https://umich.edu/: 14 <script> tags.
-2024-09-17 21:26:48,296:INFO:Processed https://indiatimes.com/: 13 <script> tags.
-2024-09-17 21:26:48,404:INFO:Processed https://businessinsider.com/: 32 <script> tags.
-2024-09-17 21:26:48,470:INFO:Processed https://bbc.co.uk/: 55 <script> tags.
-2024-09-17 21:26:48,680:INFO:Processed https://fb.com/: 16 <script> tags.
-2024-09-17 21:26:48,860:INFO:Processed https://yadi.sk/: 6 <script> tags.
-2024-09-17 21:26:49,059:INFO:Processed https://zdnet.com/: 39 <script> tags.
-2024-09-17 21:26:49,065:INFO:Processed https://groups.google.com/: 6 <script> tags.
-2024-09-17 21:26:49,157:INFO:Processed https://pbs.org/: 11 <script> tags.
-2024-09-17 21:26:49,362:INFO:Processed https://loc.gov/: 24 <script> tags.
-2024-09-17 21:26:49,423:INFO:Processed https://twitch.tv/: 10 <script> tags.
-2024-09-17 21:26:49,459:INFO:Processed https://ieee.org/: 29 <script> tags.
-2024-09-17 21:26:49,503:ERROR:Error processing https://bandcamp.com/: 403 Client Error: Forbidden for url: https://bandcamp.com/
-2024-09-17 21:26:49,860:INFO:Processed https://playstation.com/: 31 <script> tags.
-2024-09-17 21:26:50,072:INFO:Processed https://orange.fr/: 2 <script> tags.
-2024-09-17 21:26:50,127:INFO:Processed https://disney.com/: 24 <script> tags.
-2024-09-17 21:26:50,393:INFO:Processed https://aliexpress.com/: 23 <script> tags.
-2024-09-17 21:26:50,714:INFO:Processed https://ndtv.com/: 43 <script> tags.
-2024-09-17 21:26:50,761:INFO:Processed https://wikia.com/: 12 <script> tags.
-2024-09-17 21:26:50,800:INFO:Processed https://ebay.co.uk/: 25 <script> tags.
-2024-09-17 21:26:50,818:INFO:Processed https://abcnews.go.com/: 37 <script> tags.
-2024-09-17 21:26:50,944:INFO:Processed https://businesswire.com/: 21 <script> tags.
-2024-09-17 21:26:51,359:INFO:Processed https://telegram.me/: 3 <script> tags.
-2024-09-17 21:26:51,369:INFO:Processed https://thetimes.co.uk/: 212 <script> tags.
-2024-09-17 21:26:51,429:ERROR:Error processing https://eyjhiwueuoc.com/: HTTPSConnectionPool(host='eyjhiwueuoc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1080c4390>: Failed to resolve 'eyjhiwueuoc.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:26:51,444:INFO:Processed https://mashable.com/: 20 <script> tags.
-2024-09-17 21:26:51,530:ERROR:Error processing https://httpstat.us/404: 404 Client Error: Not Found for url: https://httpstat.us/404
-2024-09-17 21:26:51,812:INFO:Processed https://sapo.pt/: 22 <script> tags.
-2024-09-17 21:26:51,888:INFO:Processed https://apachefriends.org/: 5 <script> tags.
-2024-09-17 21:26:52,061:INFO:Processed https://paypal.com/: 19 <script> tags.
-2024-09-17 21:26:52,099:ERROR:Error processing https://tripadvisor.com/: 403 Client Error: Forbidden for url: https://tripadvisor.com/
-2024-09-17 21:26:53,058:INFO:Processed https://xbox.com/: 26 <script> tags.
-2024-09-17 21:26:53,072:INFO:Processed https://webmd.com/: 20 <script> tags.
-2024-09-17 21:26:53,121:INFO:Processed https://mayoclinic.org/: 29 <script> tags.
-2024-09-17 21:26:53,339:INFO:Processed https://ig.com.br/: 11 <script> tags.
-2024-09-17 21:26:53,378:INFO:Processed https://ft.com/: 13 <script> tags.
-2024-09-17 21:26:53,380:INFO:Processed https://amazon.com/: 3 <script> tags.
-2024-09-17 21:26:53,470:INFO:Processed https://zippyshare.com/: 4 <script> tags.
-2024-09-17 21:26:53,553:ERROR:Error processing https://inc.com/: 403 Client Error: Forbidden for url: https://inc.com/
-2024-09-17 21:26:53,635:INFO:Processed https://soratemplates.com/: 125 <script> tags.
-2024-09-17 21:26:53,667:INFO:Processed https://narod.ru/: 15 <script> tags.
-2024-09-17 21:26:53,948:INFO:Processed https://instructables.com/: 9 <script> tags.
-2024-09-17 21:26:54,036:INFO:Processed https://amzn.to/: 3 <script> tags.
-2024-09-17 21:26:54,243:INFO:Processed https://issuu.com/: 11 <script> tags.
-2024-09-17 21:26:54,624:INFO:Processed https://wikihow.com/: 102 <script> tags.
-2024-09-17 21:26:54,810:INFO:Processed https://lefigaro.fr/: 30 <script> tags.
-2024-09-17 21:26:54,836:INFO:Processed https://adweek.com/: 80 <script> tags.
-2024-09-17 21:26:55,117:INFO:Processed https://mozilla.org/: 10 <script> tags.
-2024-09-17 21:26:55,120:INFO:Processed https://rakuten.co.jp/: 68 <script> tags.
-2024-09-17 21:26:55,133:INFO:Processed https://eff.org/: 8 <script> tags.
-2024-09-17 21:26:55,665:INFO:Processed https://target.com/: 155 <script> tags.
-2024-09-17 21:26:55,673:INFO:Processed https://play.google.com/: 25 <script> tags.
-2024-09-17 21:26:55,703:INFO:Processed https://chinadaily.com.cn/: 26 <script> tags.
-2024-09-17 21:26:56,179:INFO:Processed https://bbc.com/: 20 <script> tags.
-2024-09-17 21:26:56,224:INFO:Processed https://amazon.de/: 97 <script> tags.
-2024-09-17 21:26:56,245:INFO:Processed https://worldbank.org/: 18 <script> tags.
-2024-09-17 21:26:56,258:INFO:Processed https://iubenda.com/: 43 <script> tags.
-2024-09-17 21:26:56,279:INFO:Processed https://livescience.com/: 63 <script> tags.
-2024-09-17 21:26:56,306:ERROR:Error processing https://histats.com/: HTTPSConnectionPool(host='histats.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x108ccd790>: Failed to resolve 'histats.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:26:56,422:INFO:Processed https://es.wikipedia.org/: 4 <script> tags.
-2024-09-17 21:26:56,426:INFO:Processed https://google.fr/: 13 <script> tags.
-2024-09-17 21:26:56,477:INFO:Processed https://standard.co.uk/: 12 <script> tags.
-2024-09-17 21:26:56,656:INFO:Processed https://theglobeandmail.com/: 53 <script> tags.
-2024-09-17 21:26:56,787:INFO:Processed https://iso.org/: 27 <script> tags.
-2024-09-17 21:26:56,884:INFO:Processed https://sedo.com/: 9 <script> tags.
-2024-09-17 21:26:56,946:INFO:Processed https://google.co.id/: 13 <script> tags.
-2024-09-17 21:26:57,001:INFO:Processed https://unesco.org/: 5 <script> tags.
-2024-09-17 21:26:57,038:INFO:Processed https://accounts.google.com/: 6 <script> tags.
-2024-09-17 21:26:57,054:INFO:Processed https://opera.com/: 4 <script> tags.
-2024-09-17 21:26:57,205:INFO:Processed https://asus.com/: 25 <script> tags.
-2024-09-17 21:26:57,305:INFO:Processed https://wp.com/: 23 <script> tags.
-2024-09-17 21:26:57,425:INFO:Processed https://lemonde.fr/: 26 <script> tags.
-2024-09-17 21:26:57,826:INFO:Processed https://guardian.co.uk/: 23 <script> tags.
-2024-09-17 21:26:57,854:INFO:Processed https://mit.edu/: 5 <script> tags.
-2024-09-17 21:26:57,959:INFO:Processed https://imdb.com/: 191 <script> tags.
-2024-09-17 21:26:58,047:INFO:Processed https://britannica.com/: 36 <script> tags.
-2024-09-17 21:26:58,110:INFO:Processed https://princeton.edu/: 6 <script> tags.
-2024-09-17 21:26:58,126:INFO:Processed https://ted.com/: 43 <script> tags.
-2024-09-17 21:26:58,128:ERROR:Error processing https://viglink.com/: HTTPSConnectionPool(host='sovrn.com', port=443): Max retries exceeded with url: /commerce/?utm_source=viglink (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103e26a90>: Failed to resolve 'sovrn.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:26:58,174:ERROR:Error processing https://addthis.com/: HTTPSConnectionPool(host='addthis.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1092eab90>: Failed to resolve 'addthis.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:26:58,281:INFO:Processed https://wiley.com/: 11 <script> tags.
-2024-09-17 21:26:58,421:INFO:Processed https://www.gov.uk/: 7 <script> tags.
-2024-09-17 21:26:58,511:ERROR:Error processing https://a8.net/: HTTPSConnectionPool(host='a8.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10910d710>: Failed to resolve 'a8.net' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:26:58,550:INFO:Processed https://www.yahoo.com/: 68 <script> tags.
-2024-09-17 21:26:58,615:ERROR:Error processing https://nhk.or.jp/: HTTPSConnectionPool(host='nhk.or.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1092e8d90>: Failed to resolve 'nhk.or.jp' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:26:58,622:ERROR:Error processing https://storage.canalblog.com/: HTTPSConnectionPool(host='storage.canalblog.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10907d6d0>: Failed to resolve 'storage.canalblog.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:26:58,623:INFO:Processed https://boston.com/: 61 <script> tags.
-2024-09-17 21:26:58,678:INFO:Processed https://cornell.edu/: 20 <script> tags.
-2024-09-17 21:26:58,744:INFO:Processed https://aol.com/: 72 <script> tags.
-2024-09-17 21:26:58,793:ERROR:Error processing https://fda.gov/: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
-2024-09-17 21:26:58,834:ERROR:Error processing https://house.gov/: HTTPSConnectionPool(host='house.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
-2024-09-17 21:26:58,897:INFO:Processed https://ipv4.google.com/: 13 <script> tags.
-2024-09-17 21:26:59,031:ERROR:Error processing https://googleusercontent.com/: 404 Client Error: Not Found for url: https://googleusercontent.com/
-2024-09-17 21:26:59,070:INFO:Processed https://express.co.uk/: 80 <script> tags.
-2024-09-17 21:26:59,101:ERROR:Error processing https://cisco.com/: HTTPSConnectionPool(host='cisco.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1006)')))
-2024-09-17 21:26:59,324:ERROR:Error processing https://answers.yahoo.com/: 403 Client Error: Forbidden for url: https://answers.yahoo.com/
-2024-09-17 21:26:59,631:INFO:Processed https://google.com.br/: 13 <script> tags.
-2024-09-17 21:26:59,695:INFO:Processed https://4shared.com/: 56 <script> tags.
-2024-09-17 21:26:59,863:INFO:Processed https://uol.com.br/: 43 <script> tags.
-2024-09-17 21:27:00,142:INFO:Processed https://wordpress.org/: 14 <script> tags.
-2024-09-17 21:27:00,197:INFO:Processed https://economist.com/: 32 <script> tags.
-2024-09-17 21:27:00,243:INFO:Processed https://thesun.co.uk/: 21 <script> tags.
-2024-09-17 21:27:00,452:INFO:Processed https://cdc.gov/: 12 <script> tags.
-2024-09-17 21:27:00,493:INFO:Processed https://pl.wikipedia.org/: 4 <script> tags.
-2024-09-17 21:27:00,678:INFO:Processed https://docs.google.com/: 6 <script> tags.
-2024-09-17 21:27:00,801:INFO:Processed https://parallels.com/: 39 <script> tags.
-2024-09-17 21:27:00,974:INFO:Processed https://latimes.com/: 15 <script> tags.
-2024-09-17 21:27:01,042:INFO:Processed https://lonelyplanet.com/: 18 <script> tags.
-2024-09-17 21:27:01,048:INFO:Processed https://theguardian.com/: 23 <script> tags.
-2024-09-17 21:27:01,122:INFO:Processed https://office.com/: 17 <script> tags.
-2024-09-17 21:27:01,189:ERROR:Error processing https://nokia.com/: 403 Client Error: Forbidden for url: https://www.nokia.com/
-2024-09-17 21:27:01,593:INFO:Processed https://stackoverflow.com/: 32 <script> tags.
-2024-09-17 21:27:01,701:INFO:Processed https://amazon.co.jp/: 114 <script> tags.
-2024-09-17 21:27:01,747:INFO:Processed https://plesk.com/: 73 <script> tags.
-2024-09-17 21:27:01,755:INFO:Processed https://change.org/: 22 <script> tags.
-2024-09-17 21:27:02,007:INFO:Processed https://abc.net.au/: 23 <script> tags.
-2024-09-17 21:27:02,007:ERROR:Error processing https://privacyshield.gov/: HTTPSConnectionPool(host='privacyshield.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
-2024-09-17 21:27:02,208:INFO:Processed https://dailymail.co.uk/: 61 <script> tags.
-2024-09-17 21:27:02,313:INFO:Processed https://cpanel.net/: 16 <script> tags.
-2024-09-17 21:27:02,323:INFO:Processed https://t.me/: 3 <script> tags.
-2024-09-17 21:27:02,411:INFO:Processed https://stores.jp/: 7 <script> tags.
-2024-09-17 21:27:02,568:ERROR:Error processing https://cambridge.org/: 403 Client Error: Forbidden for url: https://www.cambridge.org
-2024-09-17 21:27:02,611:INFO:Processed https://nginx.org/: 0 <script> tags.
-2024-09-17 21:27:02,623:INFO:Processed https://get.google.com/: 13 <script> tags.
-2024-09-17 21:27:02,676:ERROR:Error processing https://ucoz.ru/: HTTPSConnectionPool(host='ucoz.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x108c54090>: Failed to resolve 'ucoz.ru' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:02,747:INFO:Processed https://apache.org/: 7 <script> tags.
-2024-09-17 21:27:02,986:INFO:Processed https://youku.com/: 26 <script> tags.
-2024-09-17 21:27:03,034:ERROR:Error processing https://wsj.com/: 401 Client Error: HTTP Forbidden for url: https://www.wsj.com/
-2024-09-17 21:27:03,195:INFO:Processed https://feedburner.com/: 4 <script> tags.
-2024-09-17 21:27:03,226:INFO:Processed https://quora.com/: 22 <script> tags.
-2024-09-17 21:27:03,317:INFO:Processed https://twitter.com/: 1 <script> tags.
-2024-09-17 21:27:03,476:INFO:Processed https://steampowered.com/: 24 <script> tags.
-2024-09-17 21:27:03,655:INFO:Processed https://welt.de/: 158 <script> tags.
-2024-09-17 21:27:03,671:INFO:Processed https://airbnb.com/: 46 <script> tags.
-2024-09-17 21:27:03,732:INFO:Processed https://nationalgeographic.com/: 21 <script> tags.
-2024-09-17 21:27:03,926:ERROR:Error processing https://list-manage.com/: HTTPSConnectionPool(host='list-manage.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'list-manage.com'. (_ssl.c:1006)")))
-2024-09-17 21:27:03,961:ERROR:Error processing https://windowsphone.com/: HTTPSConnectionPool(host='windowsphone.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'windowsphone.com'. (_ssl.c:1006)")))
-2024-09-17 21:27:04,055:INFO:Processed https://amazon.in/: 131 <script> tags.
-2024-09-17 21:27:04,295:INFO:Processed https://usa.gov/: 28 <script> tags.
-2024-09-17 21:27:04,499:ERROR:Error processing https://httpstat.us/500: 500 Server Error: Internal Server Error for url: https://httpstat.us/500
-2024-09-17 21:27:04,732:INFO:Processed https://imageshack.us/: 9 <script> tags.
-2024-09-17 21:27:04,738:ERROR:Error processing https://picasaweb.google.com/: 404 Client Error: Not Found for url: https://get.google.com/albumarchive/pwa/
-2024-09-17 21:27:04,755:INFO:Processed https://gmail.com/: 6 <script> tags.
-2024-09-17 21:27:05,332:INFO:Processed https://nytimes.com/: 30 <script> tags.
-2024-09-17 21:27:05,391:ERROR:Error processing https://chicagotribune.com/: 403 Client Error: Forbidden for url: https://chicagotribune.com/
-2024-09-17 21:27:05,440:INFO:Processed https://dribbble.com/: 65 <script> tags.
-2024-09-17 21:27:05,458:INFO:Processed https://linkedin.com/: 5 <script> tags.
-2024-09-17 21:27:05,490:INFO:Processed https://nginx.com/: 20 <script> tags.
-2024-09-17 21:27:05,598:INFO:Processed https://box.com/: 30 <script> tags.
-2024-09-17 21:27:05,881:INFO:Processed https://elpais.com/: 19 <script> tags.
-2024-09-17 21:27:05,987:INFO:Processed https://ox.ac.uk/: 9 <script> tags.
-2024-09-17 21:27:06,015:INFO:Processed https://rottentomatoes.com/: 24 <script> tags.
-2024-09-17 21:27:06,086:INFO:Processed https://huffingtonpost.com/: 52 <script> tags.
-2024-09-17 21:27:06,418:INFO:Processed https://redhat.com/: 35 <script> tags.
-2024-09-17 21:27:06,538:ERROR:Error processing https://oracle.com/: 403 Client Error: Forbidden for url: https://www.oracle.com/
-2024-09-17 21:27:06,985:INFO:Processed https://fool.com/: 23 <script> tags.
-2024-09-17 21:27:07,014:INFO:Processed https://debian.org/: 0 <script> tags.
-2024-09-17 21:27:07,367:INFO:Processed https://slate.com/: 32 <script> tags.
-2024-09-17 21:27:07,376:INFO:Processed https://google.es/: 13 <script> tags.
-2024-09-17 21:27:07,829:INFO:Processed https://goodreads.com/: 21 <script> tags.
-2024-09-17 21:27:07,955:INFO:Processed https://naver.com/: 13 <script> tags.
-2024-09-17 21:27:07,966:INFO:Processed https://google.co.in/: 13 <script> tags.
-2024-09-17 21:27:07,997:INFO:Processed https://qq.com/: 14 <script> tags.
-2024-09-17 21:27:08,523:INFO:Processed https://time.com/: 19 <script> tags.
-2024-09-17 21:27:08,553:INFO:Processed https://www.wix.com/: 63 <script> tags.
-2024-09-17 21:27:08,587:ERROR:Error processing https://plos.org/: 403 Client Error: Forbidden for url: https://plos.org/
-2024-09-17 21:27:08,699:INFO:Processed https://prnewswire.com/: 13 <script> tags.
-2024-09-17 21:27:08,711:INFO:Processed https://ok.ru/: 35 <script> tags.
-2024-09-17 21:27:08,957:INFO:Processed https://dan.com/: 27 <script> tags.
-2024-09-17 21:27:09,301:INFO:Processed https://ibm.com/: 47 <script> tags.
-2024-09-17 21:27:09,326:ERROR:Error processing https://washingtonpost.com/: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
-2024-09-17 21:27:09,398:INFO:Processed https://mail.ru/: 87 <script> tags.
-2024-09-17 21:27:09,422:INFO:Processed https://weibo.com/: 2 <script> tags.
-2024-09-17 21:27:09,603:INFO:Processed https://youtu.be/: 42 <script> tags.
-2024-09-17 21:27:09,607:ERROR:Error processing https://xfinity.com/: 403 Client Error: Forbidden for url: https://www.xfinity.com/
-2024-09-17 21:27:09,663:INFO:Processed https://de.wikipedia.org/: 4 <script> tags.
-2024-09-17 21:27:09,732:INFO:Processed https://dw.com/: 2 <script> tags.
-2024-09-17 21:27:09,806:INFO:Processed https://connect.over-blog.com/: 4 <script> tags.
-2024-09-17 21:27:09,925:INFO:Processed https://www.skyrock.com/: 0 <script> tags.
-2024-09-17 21:27:10,131:INFO:Processed https://last.fm/: 16 <script> tags.
-2024-09-17 21:27:10,344:INFO:Processed https://cbslocal.com/: 8 <script> tags.
-2024-09-17 21:27:10,422:ERROR:Error processing https://secureserver.net/: 404 Client Error: Not Found for url: https://www.secureserver.net/
-2024-09-17 21:27:10,427:INFO:Processed https://upenn.edu/: 8 <script> tags.
-2024-09-17 21:27:10,451:INFO:Processed https://csmonitor.com/: 15 <script> tags.
-2024-09-17 21:27:10,647:INFO:Processed https://it.wikipedia.org/: 5 <script> tags.
-2024-09-17 21:27:10,756:INFO:Processed https://intel.com/: 35 <script> tags.
-2024-09-17 21:27:10,806:INFO:Processed https://wikimedia.org/: 0 <script> tags.
-2024-09-17 21:27:10,859:INFO:Processed https://lycos.com/: 17 <script> tags.
-2024-09-17 21:27:10,984:INFO:Processed https://calameo.com/: 4 <script> tags.
-2024-09-17 21:27:11,055:ERROR:Error processing https://columbia.edu/: 403 Client Error: Forbidden for url: https://columbia.edu/
-2024-09-17 21:27:11,203:INFO:Processed https://mediafire.com/: 26 <script> tags.
-2024-09-17 21:27:11,328:INFO:Processed https://amazon.fr/: 127 <script> tags.
-2024-09-17 21:27:11,465:INFO:Processed https://one.com/: 2 <script> tags.
-2024-09-17 21:27:11,664:ERROR:Error processing https://seesaa.net/: HTTPSConnectionPool(host='cms.blogdev', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1083be510>: Failed to resolve 'cms.blogdev' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:11,789:INFO:Processed https://telegraph.co.uk/: 35 <script> tags.
-2024-09-17 21:27:11,794:INFO:Processed https://google.nl/: 13 <script> tags.
-2024-09-17 21:27:11,818:INFO:Processed https://gen.xyz/: 24 <script> tags.
-2024-09-17 21:27:11,973:ERROR:Error processing https://bloglovin.com/: 403 Client Error: Forbidden for url: https://bloglovin.com/
-2024-09-17 21:27:12,425:INFO:Processed https://theverge.com/: 31 <script> tags.
-2024-09-17 21:27:12,455:INFO:Processed https://evernote.com/: 15 <script> tags.
-2024-09-17 21:27:12,510:INFO:Processed https://behance.net/: 8 <script> tags.
-2024-09-17 21:27:12,561:ERROR:Error processing https://live.com/: HTTPSConnectionPool(host='www.microsoft.com', port=443): Read timed out. (read timeout=10)
-2024-09-17 21:27:12,650:INFO:Processed https://ovh.com/: 59 <script> tags.
-2024-09-17 21:27:12,676:INFO:Processed https://thefreedictionary.com/: 28 <script> tags.
-2024-09-17 21:27:12,694:INFO:Processed https://en.wikipedia.org/: 5 <script> tags.
-2024-09-17 21:27:12,746:INFO:Processed https://excite.co.jp/: 7 <script> tags.
-2024-09-17 21:27:12,749:ERROR:Error processing https://rapidshare.com/: HTTPSConnectionPool(host='rapidshare.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x108cfa810>: Failed to establish a new connection: [Errno 61] Connection refused'))
-2024-09-17 21:27:12,833:INFO:Processed https://myaccount.google.com/: 6 <script> tags.
-2024-09-17 21:27:12,875:ERROR:Error processing https://bp3.blogger.com/: 400 Client Error: Bad Request for url: https://bp3.blogger.com/
-2024-09-17 21:27:12,880:INFO:Processed https://ja.wikipedia.org/: 5 <script> tags.
-2024-09-17 21:27:12,937:ERROR:Error processing https://aboutads.info/: HTTPSConnectionPool(host='youradchoices.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103c34f90>: Failed to resolve 'youradchoices.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:13,093:INFO:Processed https://marketingplatform.google.com/: 10 <script> tags.
-2024-09-17 21:27:13,239:INFO:Processed https://billboard.com/: 130 <script> tags.
-2024-09-17 21:27:13,287:ERROR:Error processing https://nifty.com/: HTTPSConnectionPool(host='nifty.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
-2024-09-17 21:27:13,348:INFO:Processed https://nvidia.com/: 23 <script> tags.
-2024-09-17 21:27:13,374:INFO:Processed https://archive.org/: 6 <script> tags.
-2024-09-17 21:27:13,733:INFO:Processed https://corriere.it/: 39 <script> tags.
-2024-09-17 21:27:13,742:INFO:Processed https://youtube.com/: 42 <script> tags.
-2024-09-17 21:27:13,748:INFO:Processed https://maps.google.com/: 0 <script> tags.
-2024-09-17 21:27:13,809:INFO:Processed https://theatlantic.com/: 17 <script> tags.
-2024-09-17 21:27:13,917:INFO:Processed https://nba.com/: 40 <script> tags.
-2024-09-17 21:27:13,922:INFO:Processed https://europa.eu/: 10 <script> tags.
-2024-09-17 21:27:13,940:INFO:Processed https://venturebeat.com/: 15 <script> tags.
-2024-09-17 21:27:14,147:INFO:Processed https://scribd.com/: 15 <script> tags.
-2024-09-17 21:27:14,264:INFO:Processed https://walmart.com/: 61 <script> tags.
-2024-09-17 21:27:14,284:INFO:Processed https://whitehouse.gov/: 9 <script> tags.
-2024-09-17 21:27:14,563:INFO:Processed https://ovh.co.uk/: 59 <script> tags.
-2024-09-17 21:27:14,624:INFO:Processed https://gofundme.com/: 30 <script> tags.
-2024-09-17 21:27:14,662:INFO:Processed https://photos.google.com/: 17 <script> tags.
-2024-09-17 21:27:14,668:INFO:Processed https://about.me/: 4 <script> tags.
-2024-09-17 21:27:14,700:ERROR:Error processing https://bp.blogspot.com/: HTTPSConnectionPool(host='bp.blogspot.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103d579d0>: Failed to resolve 'bp.blogspot.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:15,109:INFO:Processed https://people.com/: 6 <script> tags.
-2024-09-17 21:27:15,118:INFO:Processed https://mail.google.com/: 6 <script> tags.
-2024-09-17 21:27:15,123:INFO:Processed https://tools.google.com/: 5 <script> tags.
-2024-09-17 21:27:15,434:INFO:Processed https://bloomberg.com/: 4 <script> tags.
-2024-09-17 21:27:15,460:INFO:Processed https://giphy.com/: 45 <script> tags.
-2024-09-17 21:27:15,507:ERROR:Error processing https://sciencemag.org/: 403 Client Error: Forbidden for url: https://www.sciencemag.org/
-2024-09-17 21:27:15,531:INFO:Processed https://psu.edu/: 33 <script> tags.
-2024-09-17 21:27:15,550:ERROR:Error processing https://akamaihd.net/: HTTPSConnectionPool(host='akamaihd.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10981de10>: Failed to resolve 'akamaihd.net' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:15,672:INFO:Processed https://fr.wikipedia.org/: 4 <script> tags.
-2024-09-17 21:27:15,674:ERROR:Error processing https://bp2.blogger.com/: 400 Client Error: Bad Request for url: https://bp2.blogger.com/
-2024-09-17 21:27:15,780:INFO:Processed https://stanford.edu/: 13 <script> tags.
-2024-09-17 21:27:15,912:INFO:Processed https://news.yahoo.com/: 72 <script> tags.
-2024-09-17 21:27:15,935:INFO:Processed https://amazon.es/: 106 <script> tags.
-2024-09-17 21:27:16,081:INFO:Processed https://adobe.com/: 3 <script> tags.
-2024-09-17 21:27:16,109:ERROR:Error processing https://sciencedaily.com/: 403 Client Error: Forbidden for url: https://sciencedaily.com/
-2024-09-17 21:27:16,111:INFO:Processed https://myspace.com/: 11 <script> tags.
-2024-09-17 21:27:16,159:INFO:Processed https://gravatar.com/: 11 <script> tags.
-2024-09-17 21:27:16,230:ERROR:Error processing https://buydomains.com/: 403 Client Error: Forbidden for url: https://buydomains.com/
-2024-09-17 21:27:16,290:INFO:Processed https://ameblo.jp/: 18 <script> tags.
-2024-09-17 21:27:16,358:INFO:Processed https://lifehacker.com/: 20 <script> tags.
-2024-09-17 21:27:16,494:INFO:Processed https://google.it/: 13 <script> tags.
-2024-09-17 21:27:16,662:INFO:Processed https://mercurynews.com/: 40 <script> tags.
-2024-09-17 21:27:17,066:ERROR:Error processing https://pixabay.com/: 403 Client Error: Forbidden for url: https://pixabay.com/
-2024-09-17 21:27:17,563:INFO:Processed https://marriott.com/: 29 <script> tags.
-2024-09-17 21:27:17,758:INFO:Processed https://cnn.com/: 12 <script> tags.
-2024-09-17 21:27:17,765:INFO:Processed https://dictionary.com/: 21 <script> tags.
-2024-09-17 21:27:18,237:INFO:Processed https://ebay.com/: 26 <script> tags.
-2024-09-17 21:27:18,419:ERROR:Error processing https://home.neustar/: 403 Client Error: Forbidden for url: https://home.neustar/
-2024-09-17 21:27:18,460:INFO:Processed https://finance.yahoo.com/: 51 <script> tags.
-2024-09-17 21:27:18,509:INFO:Processed https://globo.com/: 58 <script> tags.
-2024-09-17 21:27:18,707:INFO:Processed https://t.co/: 1 <script> tags.
-2024-09-17 21:27:18,733:INFO:Processed https://drive.google.com/: 6 <script> tags.
-2024-09-17 21:27:18,818:INFO:Processed https://digg.com/: 27 <script> tags.
-2024-09-17 21:27:18,823:INFO:Processed https://sites.google.com/: 6 <script> tags.
-2024-09-17 21:27:18,895:INFO:Processed https://plus.google.com/: 13 <script> tags.
-2024-09-17 21:27:19,215:INFO:Processed https://sina.com.cn/: 101 <script> tags.
-2024-09-17 21:27:19,250:INFO:Processed https://slideshare.net/: 16 <script> tags.
-2024-09-17 21:27:19,256:INFO:Processed https://translate.google.com/: 0 <script> tags.
-2024-09-17 21:27:19,422:ERROR:Error processing https://ggpht.com/: HTTPSConnectionPool(host='ggpht.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103b90f10>: Failed to resolve 'ggpht.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:19,662:INFO:Processed https://fortune.com/: 16 <script> tags.
-2024-09-17 21:27:19,687:INFO:Processed https://amazon.co.uk/: 104 <script> tags.
-2024-09-17 21:27:19,701:INFO:Processed https://abril.com.br/: 19 <script> tags.
-2024-09-17 21:27:19,836:INFO:Processed https://ign.com/: 24 <script> tags.
-2024-09-17 21:27:19,836:ERROR:Error processing https://reuters.com/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
-2024-09-17 21:27:19,896:INFO:Processed https://pt.wikipedia.org/: 5 <script> tags.
-2024-09-17 21:27:19,914:INFO:Processed https://who.int/: 39 <script> tags.
-2024-09-17 21:27:20,033:ERROR:Error processing https://softonic.com/: 406 Client Error: Not Acceptable for url: https://softonic.com/
-2024-09-17 21:27:20,070:ERROR:Error processing https://bp0.blogger.com/: 400 Client Error: Bad Request for url: https://bp0.blogger.com/
-2024-09-17 21:27:20,115:INFO:Processed https://foxnews.com/: 86 <script> tags.
-2024-09-17 21:27:20,152:ERROR:Error processing https://cbc.ca/: HTTPSConnectionPool(host='cbc.ca', port=443): Read timed out. (read timeout=10)
-2024-09-17 21:27:20,253:INFO:Processed https://www.google.com/: 13 <script> tags.
-2024-09-17 21:27:20,304:ERROR:Error processing https://afternic.com/: HTTPSConnectionPool(host='afternic.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10910b050>: Failed to resolve 'afternic.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:20,329:INFO:Processed https://github.com/: 54 <script> tags.
-2024-09-17 21:27:20,458:INFO:Processed https://zendesk.com/: 34 <script> tags.
-2024-09-17 21:27:20,501:INFO:Processed https://disqus.com/: 3 <script> tags.
-2024-09-17 21:27:20,607:INFO:Processed https://search.yahoo.com/: 10 <script> tags.
-2024-09-17 21:27:21,166:INFO:Processed https://liveinternet.ru/: 24 <script> tags.
-2024-09-17 21:27:21,225:INFO:Processed https://ftc.gov/: 56 <script> tags.
-2024-09-17 21:27:21,259:INFO:Processed https://istockphoto.com/: 20 <script> tags.
-2024-09-17 21:27:21,314:INFO:Processed https://developers.google.com/: 6 <script> tags.
-2024-09-17 21:27:21,437:INFO:Processed https://biglobe.ne.jp/: 0 <script> tags.
-2024-09-17 21:27:21,768:ERROR:Error processing https://autodesk.com/: 403 Client Error: Forbidden for url: https://www.autodesk.com/
-2024-09-17 21:27:22,007:INFO:Processed https://rambler.ru/: 23 <script> tags.
-2024-09-17 21:27:22,047:INFO:Processed https://shopify.com/: 3 <script> tags.
-2024-09-17 21:27:22,130:INFO:Processed https://sports.yahoo.com/: 64 <script> tags.
-2024-09-17 21:27:22,445:INFO:Processed https://detik.com/: 37 <script> tags.
-2024-09-17 21:27:22,450:INFO:Processed https://google.co.uk/: 13 <script> tags.
-2024-09-17 21:27:22,636:INFO:Processed https://files.wordpress.com/: 23 <script> tags.
-2024-09-17 21:27:22,750:ERROR:Error processing https://doubleclick.net/: HTTPSConnectionPool(host='doubleclick.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103c265d0>: Failed to resolve 'doubleclick.net' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:22,881:INFO:Processed https://seattletimes.com/: 32 <script> tags.
-2024-09-17 21:27:22,883:ERROR:Error processing https://sciencedirect.com/: 403 Client Error: Forbidden for url: https://www.sciencedirect.com/
-2024-09-17 21:27:23,010:INFO:Processed https://ru.wikipedia.org/: 5 <script> tags.
-2024-09-17 21:27:23,124:INFO:Processed https://techcrunch.com/: 37 <script> tags.
-2024-09-17 21:27:23,435:INFO:Processed https://scoop.it/: 18 <script> tags.
-2024-09-17 21:27:23,450:INFO:Processed https://oreilly.com/: 13 <script> tags.
-2024-09-17 21:27:23,467:INFO:Processed https://alibaba.com/: 33 <script> tags.
-2024-09-17 21:27:23,585:INFO:Processed https://www.wikipedia.org/: 4 <script> tags.
-2024-09-17 21:27:23,760:INFO:Processed https://netvibes.com/: 8 <script> tags.
-2024-09-17 21:27:23,849:ERROR:Error processing https://godaddy.com/: 403 Client Error: Forbidden for url: https://www.godaddy.com/
-2024-09-17 21:27:23,895:INFO:Processed https://hatena.ne.jp/: 16 <script> tags.
-2024-09-17 21:27:24,185:INFO:Processed https://ustream.tv/: 12 <script> tags.
-2024-09-17 21:27:24,230:INFO:Processed https://discovery.com/: 38 <script> tags.
-2024-09-17 21:27:24,343:INFO:Processed https://independent.co.uk/: 21 <script> tags.
-2024-09-17 21:27:24,490:INFO:Processed https://themeforest.net/: 14 <script> tags.
-2024-09-17 21:27:24,510:INFO:Processed https://wired.com/: 32 <script> tags.
-2024-09-17 21:27:24,801:INFO:Processed https://abc.es/: 25 <script> tags.
-2024-09-17 21:27:24,807:INFO:Processed https://addtoany.com/: 4 <script> tags.
-2024-09-17 21:27:24,828:INFO:Processed https://washington.edu/: 13 <script> tags.
-2024-09-17 21:27:24,952:ERROR:Error processing https://megaupload.com/: HTTPSConnectionPool(host='megaupload.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10853f390>: Failed to resolve 'megaupload.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:25,395:INFO:Processed https://dreamstime.com/: 6 <script> tags.
-2024-09-17 21:27:25,406:INFO:Processed https://bing.com/: 15 <script> tags.
-2024-09-17 21:27:25,580:INFO:Processed https://xing.com/: 5 <script> tags.
-2024-09-17 21:27:25,622:INFO:Processed https://www.blogger.com/: 3 <script> tags.
-2024-09-17 21:27:25,647:INFO:Processed https://creativecommons.org/: 7 <script> tags.
-2024-09-17 21:27:25,893:INFO:Processed https://berkeley.edu/: 19 <script> tags.
-2024-09-17 21:27:25,979:INFO:Processed https://trustpilot.com/: 18 <script> tags.
-2024-09-17 21:27:25,995:INFO:Processed https://sky.com/: 24 <script> tags.
-2024-09-17 21:27:26,342:INFO:Processed https://ehow.com/: 25 <script> tags.
-2024-09-17 21:27:26,351:INFO:Processed https://steamcommunity.com/: 31 <script> tags.
-2024-09-17 21:27:26,435:INFO:Processed https://gizmodo.com/: 29 <script> tags.
-2024-09-17 21:27:26,519:ERROR:Error processing https://bt.com/: HTTPSConnectionPool(host='bt.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
-2024-09-17 21:27:26,570:ERROR:Error processing https://bp1.blogger.com/: 400 Client Error: Bad Request for url: https://bp1.blogger.com/
-2024-09-17 21:27:26,570:INFO:Processed https://usgs.gov/: 76 <script> tags.
-2024-09-17 21:27:26,649:ERROR:Error processing https://youronlinechoices.com/: HTTPSConnectionPool(host='youronlinechoices.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
-2024-09-17 21:27:26,800:INFO:Processed https://pinterest.com/: 54 <script> tags.
-2024-09-17 21:27:27,319:INFO:Processed https://elmundo.es/: 46 <script> tags.
-2024-09-17 21:27:27,384:INFO:Processed https://mysql.com/: 9 <script> tags.
-2024-09-17 21:27:27,591:INFO:Processed https://sendspace.com/: 21 <script> tags.
-2024-09-17 21:27:27,842:INFO:Processed https://gooyaabitemplates.com/: 28 <script> tags.
-2024-09-17 21:27:28,278:ERROR:Error processing https://naver.jp/: HTTPSConnectionPool(host='naver.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x108881310>: Failed to resolve 'naver.jp' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:28,420:INFO:Processed https://daum.net/: 10 <script> tags.
-2024-09-17 21:27:28,564:INFO:Processed https://google.ca/: 13 <script> tags.
-2024-09-17 21:27:28,624:ERROR:Error processing https://yahoo.co.jp/: 403 Client Error: Forbidden for url: https://www.yahoo.co.jp:443/
-2024-09-17 21:27:28,697:INFO:Processed https://e-monsite.com/: 13 <script> tags.
-2024-09-17 21:27:28,701:INFO:Processed https://netflix.com/: 9 <script> tags.
-2024-09-17 21:27:28,776:INFO:Processed https://picasa.google.com/: 4 <script> tags.
-2024-09-17 21:27:28,842:INFO:Processed https://digitaltrends.com/: 58 <script> tags.
-2024-09-17 21:27:28,928:ERROR:Error processing https://gstatic.com/: 404 Client Error: Not Found for url: https://www.gstatic.com/
-2024-09-17 21:27:28,957:INFO:Processed https://google.co.jp/: 13 <script> tags.
-2024-09-17 21:27:29,010:ERROR:Error processing https://nydailynews.com/: 403 Client Error: Forbidden for url: https://nydailynews.com/
-2024-09-17 21:27:29,035:INFO:Processed https://line.me/: 12 <script> tags.
-2024-09-17 21:27:29,166:ERROR:Error processing https://npr.org/: HTTPSConnectionPool(host='www.npr.org', port=443): Read timed out. (read timeout=10)
-2024-09-17 21:27:29,169:INFO:Processed https://cnbc.com/: 6 <script> tags.
-2024-09-17 21:27:29,413:INFO:Processed https://books.google.com/: 5 <script> tags.
-2024-09-17 21:27:29,605:INFO:Processed https://id.wikipedia.org/: 5 <script> tags.
-2024-09-17 21:27:29,634:INFO:Processed https://example.com/: 0 <script> tags.
-2024-09-17 21:27:29,899:INFO:Processed https://wa.me/: 16 <script> tags.
-2024-09-17 21:27:29,906:INFO:Processed https://amazon.ca/: 3 <script> tags.
-2024-09-17 21:27:29,930:INFO:Processed https://aljazeera.com/: 42 <script> tags.
-2024-09-17 21:27:29,946:INFO:Processed https://nih.gov/: 19 <script> tags.
-2024-09-17 21:27:30,062:INFO:Processed https://bund.de/: 4 <script> tags.
-2024-09-17 21:27:30,346:INFO:Processed https://news.google.com/: 0 <script> tags.
-2024-09-17 21:27:30,381:INFO:Processed https://soundcloud.com/: 20 <script> tags.
-2024-09-17 21:27:30,547:INFO:Processed https://surveymonkey.com/: 69 <script> tags.
-2024-09-17 21:27:30,606:INFO:Processed https://cpanel.com/: 16 <script> tags.
-2024-09-17 21:27:30,779:INFO:Processed https://samsung.com/: 25 <script> tags.
-2024-09-17 21:27:30,822:INFO:Processed https://wattpad.com/: 7 <script> tags.
-2024-09-17 21:27:30,970:ERROR:Error processing https://adssettings.google.com/: HTTPSConnectionPool(host='googleads.g.doubleclick.net', port=443): Max retries exceeded with url: /ads/preferences/getcookie?sig=ACi0TCifxiPtmR99GjKBq28bx17P7KLiTOJeuPQMVt6ny8G5yq6tC9cTM1qWe0clTA-ffhJDb3oI&continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw==&hl=en (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1092f4510>: Failed to resolve 'googleads.g.doubleclick.net' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:31,157:ERROR:Error processing https://kickstarter.com/: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
-2024-09-17 21:27:31,234:INFO:Processed https://engadget.com/: 40 <script> tags.
-2024-09-17 21:27:31,378:INFO:Processed https://dropbox.com/: 22 <script> tags.
-2024-09-17 21:27:31,378:ERROR:Error processing https://news.com.au/: 403 Client Error: Forbidden for url: https://www.news.com.au/
-2024-09-17 21:27:31,409:INFO:Processed https://photobucket.com/: 7 <script> tags.
-2024-09-17 21:27:31,781:INFO:Processed https://bit.ly/: 26 <script> tags.
-2024-09-17 21:27:31,843:INFO:Processed https://mirror.co.uk/: 47 <script> tags.
-2024-09-17 21:27:31,935:INFO:Processed https://huffpost.com/: 52 <script> tags.
-2024-09-17 21:27:32,182:INFO:Processed https://newscientist.com/: 41 <script> tags.
-2024-09-17 21:27:32,390:INFO:Processed https://hp.com/: 16 <script> tags.
-2024-09-17 21:27:32,423:INFO:Processed https://smh.com.au/: 20 <script> tags.
-2024-09-17 21:27:32,461:INFO:Processed https://microsoft.com/: 49 <script> tags.
-2024-09-17 21:27:32,497:INFO:Processed https://teamviewer.com/: 14 <script> tags.
-2024-09-17 21:27:32,654:ERROR:Error processing https://hugedomains.com/: 403 Client Error: Forbidden for url: https://hugedomains.com/
-2024-09-17 21:27:32,666:INFO:Processed https://spiegel.de/: 22 <script> tags.
-2024-09-17 21:27:32,672:INFO:Processed https://policies.google.com/: 20 <script> tags.
-2024-09-17 21:27:32,712:INFO:Processed https://terra.com.br/: 43 <script> tags.
-2024-09-17 21:27:32,810:INFO:Processed https://fifa.com/: 4 <script> tags.
-2024-09-17 21:27:32,974:INFO:Processed https://tinyurl.com/: 6 <script> tags.
-2024-09-17 21:27:33,073:INFO:Processed https://w3.org/: 4 <script> tags.
-2024-09-17 21:27:33,517:INFO:Processed https://cloudflare.com/: 11 <script> tags.
-2024-09-17 21:27:33,659:INFO:Processed https://merriam-webster.com/: 23 <script> tags.
-2024-09-17 21:27:33,689:ERROR:Error processing https://hm.com/: 403 Client Error: Forbidden for url: https://hm.com/
-2024-09-17 21:27:33,861:INFO:Processed https://metro.co.uk/: 35 <script> tags.
-2024-09-17 21:27:33,891:INFO:Processed https://nbcnews.com/: 44 <script> tags.
-2024-09-17 21:27:33,906:INFO:Processed https://allaboutcookies.org/: 9 <script> tags.
-2024-09-17 21:27:33,993:INFO:Processed https://google.com.tw/: 13 <script> tags.
-2024-09-17 21:27:34,113:ERROR:Error processing https://fastcompany.com/: 403 Client Error: Forbidden for url: https://fastcompany.com/
-2024-09-17 21:27:34,431:INFO:Processed https://ovh.net/: 1 <script> tags.
-2024-09-17 21:27:34,456:INFO:Processed https://ea.com/: 15 <script> tags.
-2024-09-17 21:27:34,725:INFO:Processed https://fandom.com/: 13 <script> tags.
-2024-09-17 21:27:34,793:INFO:Processed https://fb.me/: 16 <script> tags.
-2024-09-17 21:27:34,811:INFO:Processed https://about.com/: 19 <script> tags.
-2024-09-17 21:27:34,828:ERROR:Error processing https://jimdofree.com/: HTTPSConnectionPool(host='jimdofree.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x108dd1090>: Failed to resolve 'jimdofree.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:34,987:INFO:Processed https://wiktionary.org/: 4 <script> tags.
-2024-09-17 21:27:35,103:INFO:Processed https://my.yahoo.com/: 57 <script> tags.
-2024-09-17 21:27:35,163:INFO:Processed https://pixnet.net/: 21 <script> tags.
-2024-09-17 21:27:35,299:INFO:Processed https://kinja.com/: 45 <script> tags.
-2024-09-17 21:27:35,334:INFO:Processed https://e-recht24.de/: 42 <script> tags.
-2024-09-17 21:27:35,353:ERROR:Error processing https://xinhuanet.com/: HTTPSConnectionPool(host='xinhuanet.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xinhuanet.com'. (_ssl.c:1006)")))
-2024-09-17 21:27:35,478:INFO:Processed https://dailymotion.com/: 19 <script> tags.
-2024-09-17 21:27:35,513:INFO:Processed https://bitly.com/: 26 <script> tags.
-2024-09-17 21:27:35,638:INFO:Processed https://code.google.com/: 1 <script> tags.
-2024-09-17 21:27:35,839:INFO:Processed https://so-net.ne.jp/: 9 <script> tags.
-2024-09-17 21:27:35,896:INFO:Processed https://httpstat.us/202: 0 <script> tags.
-2024-09-17 21:27:35,973:INFO:Processed https://thestar.com/: 110 <script> tags.
-2024-09-17 21:27:36,133:INFO:Processed https://instagram.com/: 48 <script> tags.
-2024-09-17 21:27:36,258:INFO:Processed https://spotify.com/: 9 <script> tags.
-2024-09-17 21:27:36,302:INFO:Processed https://eventbrite.com/: 36 <script> tags.
-2024-09-17 21:27:36,490:INFO:Processed https://nature.com/: 8 <script> tags.
-2024-09-17 21:27:36,510:INFO:Processed https://draft.blogger.com/: 3 <script> tags.
-2024-09-17 21:27:36,595:ERROR:Error processing https://clickbank.net/: HTTPSConnectionPool(host='clickbank.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103b3f690>: Failed to resolve 'clickbank.net' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:36,745:INFO:Processed https://t-online.de/: 45 <script> tags.
-2024-09-17 21:27:36,749:ERROR:Error processing https://pcmag.com/: 403 Client Error: Forbidden for url: https://www.pcmag.com/
-2024-09-17 21:27:36,776:INFO:Processed https://www.livejournal.com/: 18 <script> tags.
-2024-09-17 21:27:37,035:INFO:Processed https://nasa.gov/: 13 <script> tags.
-2024-09-17 21:27:37,065:INFO:Processed https://android.com/: 12 <script> tags.
-2024-09-17 21:27:37,136:INFO:Processed https://google.pl/: 13 <script> tags.
-2024-09-17 21:27:37,181:INFO:Processed https://offset.com/: 10 <script> tags.
-2024-09-17 21:27:37,237:INFO:Processed https://rt.com/: 28 <script> tags.
-2024-09-17 21:27:37,635:INFO:Processed https://namecheap.com/: 27 <script> tags.
-2024-09-17 21:27:37,647:INFO:Processed https://ietf.org/: 5 <script> tags.
-2024-09-17 21:27:37,799:INFO:Processed https://www.weebly.com/: 10 <script> tags.
-2024-09-17 21:27:37,902:INFO:Processed https://asahi.com/: 32 <script> tags.
-2024-09-17 21:27:38,131:INFO:Processed https://msn.com/: 12 <script> tags.
-2024-09-17 21:27:38,220:INFO:Processed https://vk.com/: 16 <script> tags.
-2024-09-17 21:27:38,382:INFO:Processed https://yelp.com/: 35 <script> tags.
-2024-09-17 21:27:38,410:INFO:Processed https://ibtimes.com/: 21 <script> tags.
-2024-09-17 21:27:38,429:INFO:Processed https://cmu.edu/: 14 <script> tags.
-2024-09-17 21:27:38,434:INFO:Processed https://ask.fm/: 9 <script> tags.
-2024-09-17 21:27:38,773:INFO:Processed https://depositfiles.com/: 11 <script> tags.
-2024-09-17 21:27:38,822:INFO:Processed https://vimeo.com/: 26 <script> tags.
-2024-09-17 21:27:38,837:INFO:Processed https://google.ru/: 13 <script> tags.
-2024-09-17 21:27:39,140:INFO:Processed https://cbsnews.com/: 9 <script> tags.
-2024-09-17 21:27:39,185:INFO:Processed https://weather.com/: 25 <script> tags.
-2024-09-17 21:27:39,210:INFO:Processed https://uspto.gov/: 19 <script> tags.
-2024-09-17 21:27:39,551:INFO:Processed https://gnu.org/: 0 <script> tags.
-2024-09-17 21:27:39,592:ERROR:Error processing https://ssl-images-amazon.com/: HTTPSConnectionPool(host='ssl-images-amazon.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x108099c50>: Failed to resolve 'ssl-images-amazon.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:39,657:INFO:Processed https://variety.com/: 116 <script> tags.
-2024-09-17 21:27:39,796:INFO:Processed https://networkadvertising.org/: 17 <script> tags.
-2024-09-17 21:27:39,811:INFO:Processed https://yandex.ru/: 1 <script> tags.
-2024-09-17 21:27:39,871:ERROR:Error processing https://storage.googleapis.com/: 400 Client Error: Bad Request for url: https://storage.googleapis.com/
-2024-09-17 21:27:39,887:INFO:Processed https://rtve.es/: 6 <script> tags.
-2024-09-17 21:27:40,117:INFO:Processed https://m.wikipedia.org/: 4 <script> tags.
-2024-09-17 21:27:40,419:INFO:Processed https://psychologytoday.com/: 14 <script> tags.
-2024-09-17 21:27:40,460:INFO:Processed https://support.google.com/: 58 <script> tags.
-2024-09-17 21:27:40,556:INFO:Processed https://whatsapp.com/: 16 <script> tags.
-2024-09-17 21:27:40,631:INFO:Processed https://goo.ne.jp/: 36 <script> tags.
-2024-09-17 21:27:40,678:INFO:Processed https://nypost.com/: 68 <script> tags.
-2024-09-17 21:27:40,758:ERROR:Error processing https://un.org/: HTTPSConnectionPool(host='www.un.org', port=443): Read timed out. (read timeout=10)
-2024-09-17 21:27:40,761:INFO:Processed https://newsweek.com/: 53 <script> tags.
-2024-09-17 21:27:40,816:INFO:Processed https://goo.gl/: 8 <script> tags.
-2024-09-17 21:27:40,853:INFO:Processed https://www.over-blog.com/: 14 <script> tags.
-2024-09-17 21:27:40,864:INFO:Processed https://epa.gov/: 34 <script> tags.
-2024-09-17 21:27:41,150:INFO:Processed https://hollywoodreporter.com/: 112 <script> tags.
-2024-09-17 21:27:41,451:INFO:Processed https://php.net/: 8 <script> tags.
-2024-09-17 21:27:41,504:INFO:Processed https://siemens.com/: 7 <script> tags.
-2024-09-17 21:27:41,623:INFO:Processed https://blackberry.com/: 11 <script> tags.
-2024-09-17 21:27:41,869:INFO:Processed https://academia.edu/: 31 <script> tags.
-2024-09-17 21:27:41,930:ERROR:Error processing https://storify.com/: HTTPSConnectionPool(host='storify.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1092eca10>: Failed to resolve 'storify.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:41,957:ERROR:Error processing https://ytimg.com/: HTTPSConnectionPool(host='ytimg.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103c3dd10>: Failed to resolve 'ytimg.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:42,075:INFO:Processed https://utexas.edu/: 13 <script> tags.
-2024-09-17 21:27:42,247:INFO:Processed https://facebook.com/: 16 <script> tags.
-2024-09-17 21:27:42,324:INFO:Processed https://mega.nz/: 1 <script> tags.
-2024-09-17 21:27:42,334:INFO:Processed https://espn.com/: 27 <script> tags.
-2024-09-17 21:27:42,368:ERROR:Error processing https://gesetze-im-internet.de/: HTTPSConnectionPool(host='gesetze-im-internet.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x109123390>: Failed to resolve 'gesetze-im-internet.de' ([Errno 8] nodename nor servname provided, or not known)"))
-2024-09-17 21:27:42,668:INFO:Processed https://search.google.com/: 13 <script> tags.
-2024-09-17 21:27:42,988:ERROR:Error processing https://cnet.com/: HTTPSConnectionPool(host='www.cnet.com', port=443): Read timed out. (read timeout=10)
-2024-09-17 21:27:43,017:INFO:Processed https://buzzfeed.com/: 27 <script> tags.
-2024-09-17 21:27:43,295:INFO:Processed https://dell.com/: 23 <script> tags.
-2024-09-17 21:27:43,296:INFO:Processed https://greenpeace.org/: 4 <script> tags.
-2024-09-17 21:27:43,311:INFO:Processed https://ikea.com/: 16 <script> tags.
-2024-09-17 21:27:43,377:ERROR:Error processing https://photos1.blogger.com/: 404 Client Error: Not Found for url: https://photos1.blogger.com/
-2024-09-17 21:27:43,538:INFO:Processed https://usatoday.com/: 18 <script> tags.
-2024-09-17 21:27:44,890:INFO:Processed https://sakura.ne.jp/: 9 <script> tags.
-2024-09-17 21:27:50,946:ERROR:Error processing https://usnews.com/: HTTPSConnectionPool(host='usnews.com', port=443): Read timed out. (read timeout=10)
-2024-09-17 21:27:50,958:INFO:Results exported to results.csv
+2024-09-17 22:02:14,762:ERROR:Error processing https://a8.net/: HTTPSConnectionPool(host='a8.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1048ef050>: Failed to resolve 'a8.net' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:14,765:ERROR:Error processing https://jimdofree.com/: HTTPSConnectionPool(host='jimdofree.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1040647d0>: Failed to resolve 'jimdofree.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:14,798:ERROR:Error processing https://gesetze-im-internet.de/: HTTPSConnectionPool(host='gesetze-im-internet.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1048ee050>: Failed to resolve 'gesetze-im-internet.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:14,920:ERROR:Error processing https://hugedomains.com/: 403 Client Error: Forbidden for url: https://hugedomains.com/
+2024-09-17 22:02:15,010:INFO:Processed https://google.de/: 13 <script> tags.
+2024-09-17 22:02:15,109:INFO:Processed https://scoop.it/: 18 <script> tags.
+2024-09-17 22:02:15,147:INFO:Processed https://wikimedia.org/: 0 <script> tags.
+2024-09-17 22:02:15,629:INFO:Processed https://dropbox.com/: 22 <script> tags.
+2024-09-17 22:02:15,652:INFO:Processed https://venturebeat.com/: 15 <script> tags.
+2024-09-17 22:02:15,719:INFO:Processed https://telegraph.co.uk/: 35 <script> tags.
+2024-09-17 22:02:15,900:INFO:Processed https://apachefriends.org/: 5 <script> tags.
+2024-09-17 22:02:15,944:INFO:Processed https://dreamstime.com/: 6 <script> tags.
+2024-09-17 22:02:15,965:INFO:Processed https://vice.com/: 24 <script> tags.
+2024-09-17 22:02:16,202:INFO:Processed https://one.com/: 2 <script> tags.
+2024-09-17 22:02:16,348:INFO:Processed https://dailymail.co.uk/: 61 <script> tags.
+2024-09-17 22:02:16,353:INFO:Processed https://liveinternet.ru/: 24 <script> tags.
+2024-09-17 22:02:16,495:ERROR:Error processing https://xinhuanet.com/: HTTPSConnectionPool(host='xinhuanet.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xinhuanet.com'. (_ssl.c:1006)")))
+2024-09-17 22:02:16,549:INFO:Processed https://wikihow.com/: 102 <script> tags.
+2024-09-17 22:02:16,571:INFO:Processed https://ameblo.jp/: 18 <script> tags.
+2024-09-17 22:02:16,608:INFO:Processed https://ft.com/: 13 <script> tags.
+2024-09-17 22:02:16,620:INFO:Processed https://loc.gov/: 24 <script> tags.
+2024-09-17 22:02:16,621:INFO:Processed https://orange.fr/: 2 <script> tags.
+2024-09-17 22:02:16,701:INFO:Processed https://google.it/: 13 <script> tags.
+2024-09-17 22:02:16,729:INFO:Processed https://cornell.edu/: 20 <script> tags.
+2024-09-17 22:02:16,868:ERROR:Error processing https://bp2.blogger.com/: 400 Client Error: Bad Request for url: https://bp2.blogger.com/
+2024-09-17 22:02:16,912:ERROR:Error processing https://privacyshield.gov/: HTTPSConnectionPool(host='privacyshield.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+2024-09-17 22:02:16,957:INFO:Processed https://maps.google.com/: 0 <script> tags.
+2024-09-17 22:02:17,062:INFO:Processed https://cloudflare.com/: 11 <script> tags.
+2024-09-17 22:02:17,149:INFO:Processed https://usgs.gov/: 76 <script> tags.
+2024-09-17 22:02:17,269:INFO:Processed https://usatoday.com/: 18 <script> tags.
+2024-09-17 22:02:17,328:INFO:Processed https://draft.blogger.com/: 3 <script> tags.
+2024-09-17 22:02:17,519:INFO:Processed https://stanford.edu/: 13 <script> tags.
+2024-09-17 22:02:17,567:INFO:Processed https://instructables.com/: 9 <script> tags.
+2024-09-17 22:02:17,747:ERROR:Error processing https://sciencemag.org/: 403 Client Error: Forbidden for url: https://www.sciencemag.org/
+2024-09-17 22:02:17,870:INFO:Processed https://telegram.me/: 3 <script> tags.
+2024-09-17 22:02:17,898:INFO:Processed https://cpanel.net/: 16 <script> tags.
+2024-09-17 22:02:17,925:ERROR:Error processing https://viglink.com/: HTTPSConnectionPool(host='sovrn.com', port=443): Max retries exceeded with url: /commerce/?utm_source=viglink (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a632e50>: Failed to resolve 'sovrn.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:18,048:INFO:Processed https://ftc.gov/: 56 <script> tags.
+2024-09-17 22:02:18,089:INFO:Processed https://zippyshare.com/: 4 <script> tags.
+2024-09-17 22:02:18,154:INFO:Processed https://google.co.jp/: 13 <script> tags.
+2024-09-17 22:02:18,248:ERROR:Error processing https://sciencedaily.com/: 403 Client Error: Forbidden for url: https://sciencedaily.com/
+2024-09-17 22:02:18,584:INFO:Processed https://fandom.com/: 13 <script> tags.
+2024-09-17 22:02:18,646:INFO:Processed https://digitaltrends.com/: 58 <script> tags.
+2024-09-17 22:02:18,704:INFO:Processed https://samsung.com/: 25 <script> tags.
+2024-09-17 22:02:18,866:INFO:Processed https://detik.com/: 37 <script> tags.
+2024-09-17 22:02:18,894:INFO:Processed https://psu.edu/: 33 <script> tags.
+2024-09-17 22:02:18,912:INFO:Processed https://engadget.com/: 40 <script> tags.
+2024-09-17 22:02:18,916:ERROR:Error processing https://plos.org/: 403 Client Error: Forbidden for url: https://plos.org/
+2024-09-17 22:02:19,239:INFO:Processed https://google.co.in/: 13 <script> tags.
+2024-09-17 22:02:19,302:ERROR:Error processing https://httpstat.us/500: 500 Server Error: Internal Server Error for url: https://httpstat.us/500
+2024-09-17 22:02:19,317:INFO:Processed https://mediafire.com/: 26 <script> tags.
+2024-09-17 22:02:19,333:INFO:Processed https://play.google.com/: 25 <script> tags.
+2024-09-17 22:02:19,346:ERROR:Error processing https://answers.yahoo.com/: 403 Client Error: Forbidden for url: https://answers.yahoo.com/
+2024-09-17 22:02:19,384:INFO:Processed https://webmd.com/: 20 <script> tags.
+2024-09-17 22:02:19,562:INFO:Processed https://www.livejournal.com/: 18 <script> tags.
+2024-09-17 22:02:19,587:INFO:Processed https://developers.google.com/: 6 <script> tags.
+2024-09-17 22:02:19,610:ERROR:Error processing https://inc.com/: 403 Client Error: Forbidden for url: https://inc.com/
+2024-09-17 22:02:19,871:INFO:Processed https://ikea.com/: 16 <script> tags.
+2024-09-17 22:02:19,951:INFO:Processed https://pt.wikipedia.org/: 5 <script> tags.
+2024-09-17 22:02:19,980:INFO:Processed https://google.es/: 13 <script> tags.
+2024-09-17 22:02:20,004:ERROR:Error processing https://wsj.com/: 401 Client Error: HTTP Forbidden for url: https://www.wsj.com/
+2024-09-17 22:02:20,050:INFO:Processed https://example.com/: 0 <script> tags.
+2024-09-17 22:02:20,096:ERROR:Error processing https://akamaihd.net/: HTTPSConnectionPool(host='akamaihd.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104bb85d0>: Failed to resolve 'akamaihd.net' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:20,173:INFO:Processed https://line.me/: 12 <script> tags.
+2024-09-17 22:02:20,278:ERROR:Error processing https://bp3.blogger.com/: 400 Client Error: Bad Request for url: https://bp3.blogger.com/
+2024-09-17 22:02:20,656:INFO:Processed https://rtve.es/: 6 <script> tags.
+2024-09-17 22:02:20,795:INFO:Processed https://economist.com/: 32 <script> tags.
+2024-09-17 22:02:20,945:INFO:Processed https://cnbc.com/: 6 <script> tags.
+2024-09-17 22:02:21,066:INFO:Processed https://amazon.co.uk/: 104 <script> tags.
+2024-09-17 22:02:21,078:INFO:Processed https://disqus.com/: 3 <script> tags.
+2024-09-17 22:02:21,143:INFO:Processed https://google.com.tw/: 13 <script> tags.
+2024-09-17 22:02:21,218:INFO:Processed https://amazon.co.jp/: 113 <script> tags.
+2024-09-17 22:02:21,283:INFO:Processed https://imageshack.us/: 9 <script> tags.
+2024-09-17 22:02:21,296:INFO:Processed https://search.yahoo.com/: 10 <script> tags.
+2024-09-17 22:02:21,311:INFO:Processed https://www.gov.uk/: 7 <script> tags.
+2024-09-17 22:02:21,313:ERROR:Error processing https://ggpht.com/: HTTPSConnectionPool(host='ggpht.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10b8ff3d0>: Failed to resolve 'ggpht.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:21,620:INFO:Processed https://alibaba.com/: 33 <script> tags.
+2024-09-17 22:02:21,724:INFO:Processed https://youku.com/: 26 <script> tags.
+2024-09-17 22:02:21,754:INFO:Processed https://php.net/: 8 <script> tags.
+2024-09-17 22:02:21,964:INFO:Processed https://nature.com/: 8 <script> tags.
+2024-09-17 22:02:22,168:INFO:Processed https://ted.com/: 43 <script> tags.
+2024-09-17 22:02:22,237:INFO:Processed https://teamviewer.com/: 14 <script> tags.
+2024-09-17 22:02:22,545:INFO:Processed https://es.wikipedia.org/: 4 <script> tags.
+2024-09-17 22:02:22,549:INFO:Processed https://parallels.com/: 39 <script> tags.
+2024-09-17 22:02:22,691:INFO:Processed https://ea.com/: 15 <script> tags.
+2024-09-17 22:02:22,755:INFO:Processed https://my.yahoo.com/: 57 <script> tags.
+2024-09-17 22:02:22,768:ERROR:Error processing https://fastcompany.com/: 403 Client Error: Forbidden for url: https://fastcompany.com/
+2024-09-17 22:02:22,840:ERROR:Error processing https://windowsphone.com/: HTTPSConnectionPool(host='windowsphone.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'windowsphone.com'. (_ssl.c:1006)")))
+2024-09-17 22:02:22,941:INFO:Processed https://newscientist.com/: 41 <script> tags.
+2024-09-17 22:02:22,958:INFO:Processed https://academia.edu/: 31 <script> tags.
+2024-09-17 22:02:23,103:INFO:Processed https://www.wix.com/: 63 <script> tags.
+2024-09-17 22:02:23,120:ERROR:Error processing https://bloglovin.com/: 403 Client Error: Forbidden for url: https://bloglovin.com/
+2024-09-17 22:02:23,121:INFO:Processed https://gnu.org/: 0 <script> tags.
+2024-09-17 22:02:23,324:INFO:Processed https://accounts.google.com/: 6 <script> tags.
+2024-09-17 22:02:23,651:INFO:Processed https://indiatimes.com/: 13 <script> tags.
+2024-09-17 22:02:23,653:ERROR:Error processing https://autodesk.com/: 403 Client Error: Forbidden for url: https://www.autodesk.com/
+2024-09-17 22:02:23,736:INFO:Processed https://slate.com/: 32 <script> tags.
+2024-09-17 22:02:23,828:ERROR:Error processing https://secureserver.net/: 404 Client Error: Not Found for url: https://www.secureserver.net/
+2024-09-17 22:02:23,935:INFO:Processed https://get.google.com/: 13 <script> tags.
+2024-09-17 22:02:24,225:INFO:Processed https://nginx.com/: 20 <script> tags.
+2024-09-17 22:02:24,282:INFO:Processed https://giphy.com/: 45 <script> tags.
+2024-09-17 22:02:24,428:INFO:Processed https://theguardian.com/: 23 <script> tags.
+2024-09-17 22:02:24,513:INFO:Processed https://wa.me/: 16 <script> tags.
+2024-09-17 22:02:24,637:INFO:Processed https://latimes.com/: 15 <script> tags.
+2024-09-17 22:02:24,766:ERROR:Error processing https://news.com.au/: 403 Client Error: Forbidden for url: https://www.news.com.au/
+2024-09-17 22:02:24,802:INFO:Processed https://box.com/: 30 <script> tags.
+2024-09-17 22:02:24,941:INFO:Processed https://nypost.com/: 68 <script> tags.
+2024-09-17 22:02:25,283:INFO:Processed https://spiegel.de/: 22 <script> tags.
+2024-09-17 22:02:25,308:INFO:Processed https://adweek.com/: 80 <script> tags.
+2024-09-17 22:02:25,440:INFO:Processed https://vimeo.com/: 27 <script> tags.
+2024-09-17 22:02:25,575:INFO:Processed https://washington.edu/: 13 <script> tags.
+2024-09-17 22:02:25,672:INFO:Processed https://lycos.com/: 17 <script> tags.
+2024-09-17 22:02:25,876:INFO:Processed https://microsoft.com/: 49 <script> tags.
+2024-09-17 22:02:25,991:INFO:Processed https://sapo.pt/: 22 <script> tags.
+2024-09-17 22:02:26,176:INFO:Processed https://wiktionary.org/: 4 <script> tags.
+2024-09-17 22:02:26,272:INFO:Processed https://finance.yahoo.com/: 52 <script> tags.
+2024-09-17 22:02:26,722:INFO:Processed https://ebay.com/: 26 <script> tags.
+2024-09-17 22:02:26,788:INFO:Processed https://mit.edu/: 5 <script> tags.
+2024-09-17 22:02:26,807:INFO:Processed https://mayoclinic.org/: 29 <script> tags.
+2024-09-17 22:02:26,838:INFO:Processed https://photobucket.com/: 7 <script> tags.
+2024-09-17 22:02:26,958:INFO:Processed https://biglobe.ne.jp/: 0 <script> tags.
+2024-09-17 22:02:26,967:INFO:Processed https://www.google.com/: 13 <script> tags.
+2024-09-17 22:02:27,163:ERROR:Error processing https://tripadvisor.com/: 403 Client Error: Forbidden for url: https://tripadvisor.com/
+2024-09-17 22:02:27,360:INFO:Processed https://hatena.ne.jp/: 16 <script> tags.
+2024-09-17 22:02:27,371:INFO:Processed https://lefigaro.fr/: 30 <script> tags.
+2024-09-17 22:02:27,375:INFO:Processed https://msn.com/: 12 <script> tags.
+2024-09-17 22:02:27,603:ERROR:Error processing https://gstatic.com/: 404 Client Error: Not Found for url: https://www.gstatic.com/
+2024-09-17 22:02:27,642:ERROR:Error processing https://clickbank.net/: HTTPSConnectionPool(host='clickbank.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a4a7150>: Failed to resolve 'clickbank.net' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:27,684:INFO:Processed https://oreilly.com/: 13 <script> tags.
+2024-09-17 22:02:27,694:ERROR:Error processing https://photos1.blogger.com/: 404 Client Error: Not Found for url: https://photos1.blogger.com/
+2024-09-17 22:02:27,756:ERROR:Error processing https://yahoo.co.jp/: 403 Client Error: Forbidden for url: https://www.yahoo.co.jp:443/
+2024-09-17 22:02:27,816:INFO:Processed https://cdc.gov/: 12 <script> tags.
+2024-09-17 22:02:27,986:INFO:Processed https://behance.net/: 8 <script> tags.
+2024-09-17 22:02:28,021:INFO:Processed https://change.org/: 22 <script> tags.
+2024-09-17 22:02:28,058:ERROR:Error processing https://bp.blogspot.com/: HTTPSConnectionPool(host='bp.blogspot.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10bfb9050>: Failed to resolve 'bp.blogspot.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:28,138:INFO:Processed https://ign.com/: 24 <script> tags.
+2024-09-17 22:02:28,432:INFO:Processed https://zdnet.com/: 39 <script> tags.
+2024-09-17 22:02:28,443:INFO:Processed https://cpanel.com/: 16 <script> tags.
+2024-09-17 22:02:28,493:INFO:Processed https://search.google.com/: 13 <script> tags.
+2024-09-17 22:02:28,579:INFO:Processed https://aljazeera.com/: 42 <script> tags.
+2024-09-17 22:02:28,727:INFO:Processed https://theverge.com/: 31 <script> tags.
+2024-09-17 22:02:29,010:INFO:Processed https://www.skyrock.com/: 0 <script> tags.
+2024-09-17 22:02:29,066:ERROR:Error processing https://doubleclick.net/: HTTPSConnectionPool(host='doubleclick.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a3add50>: Failed to resolve 'doubleclick.net' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:29,346:INFO:Processed https://mail.google.com/: 6 <script> tags.
+2024-09-17 22:02:29,359:INFO:Processed https://whitehouse.gov/: 9 <script> tags.
+2024-09-17 22:02:29,585:INFO:Processed https://newsweek.com/: 53 <script> tags.
+2024-09-17 22:02:29,639:INFO:Processed https://weather.com/: 25 <script> tags.
+2024-09-17 22:02:29,768:INFO:Processed https://kinja.com/: 45 <script> tags.
+2024-09-17 22:02:29,785:INFO:Processed https://pinterest.com/: 54 <script> tags.
+2024-09-17 22:02:30,010:INFO:Processed https://trustpilot.com/: 18 <script> tags.
+2024-09-17 22:02:30,274:INFO:Processed https://amazon.ca/: 3 <script> tags.
+2024-09-17 22:02:30,277:INFO:Processed https://themeforest.net/: 14 <script> tags.
+2024-09-17 22:02:30,459:INFO:Processed https://rt.com/: 28 <script> tags.
+2024-09-17 22:02:30,566:INFO:Processed https://berkeley.edu/: 19 <script> tags.
+2024-09-17 22:02:30,678:INFO:Processed https://lonelyplanet.com/: 18 <script> tags.
+2024-09-17 22:02:30,692:INFO:Processed https://gen.xyz/: 24 <script> tags.
+2024-09-17 22:02:30,841:ERROR:Error processing https://un.org/: HTTPSConnectionPool(host='un.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1006)')))
+2024-09-17 22:02:30,977:INFO:Processed https://t.co/: 1 <script> tags.
+2024-09-17 22:02:30,990:INFO:Processed https://vox.com/: 23 <script> tags.
+2024-09-17 22:02:30,994:INFO:Processed https://google.pl/: 13 <script> tags.
+2024-09-17 22:02:31,130:ERROR:Error processing https://youronlinechoices.com/: HTTPSConnectionPool(host='youronlinechoices.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-09-17 22:02:31,171:ERROR:Error processing https://oracle.com/: 403 Client Error: Forbidden for url: https://www.oracle.com/
+2024-09-17 22:02:31,225:INFO:Processed https://who.int/: 39 <script> tags.
+2024-09-17 22:02:31,290:INFO:Processed https://picasa.google.com/: 4 <script> tags.
+2024-09-17 22:02:31,576:INFO:Processed https://e-monsite.com/: 13 <script> tags.
+2024-09-17 22:02:31,591:INFO:Processed https://sakura.ne.jp/: 9 <script> tags.
+2024-09-17 22:02:31,631:INFO:Processed https://amazon.es/: 106 <script> tags.
+2024-09-17 22:02:31,662:INFO:Processed https://www.yahoo.com/: 68 <script> tags.
+2024-09-17 22:02:31,746:INFO:Processed https://iubenda.com/: 43 <script> tags.
+2024-09-17 22:02:31,865:INFO:Processed https://pbs.org/: 11 <script> tags.
+2024-09-17 22:02:31,881:INFO:Processed https://www.wikipedia.org/: 4 <script> tags.
+2024-09-17 22:02:32,094:INFO:Processed https://espn.com/: 27 <script> tags.
+2024-09-17 22:02:32,330:INFO:Processed https://facebook.com/: 16 <script> tags.
+2024-09-17 22:02:32,380:INFO:Processed https://news.yahoo.com/: 72 <script> tags.
+2024-09-17 22:02:32,400:INFO:Processed https://ru.wikipedia.org/: 5 <script> tags.
+2024-09-17 22:02:32,470:INFO:Processed https://redhat.com/: 35 <script> tags.
+2024-09-17 22:02:32,756:ERROR:Error processing https://reuters.com/: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-09-17 22:02:32,778:INFO:Processed https://uspto.gov/: 19 <script> tags.
+2024-09-17 22:02:32,881:INFO:Processed https://livescience.com/: 63 <script> tags.
+2024-09-17 22:02:33,136:ERROR:Error processing https://columbia.edu/: 403 Client Error: Forbidden for url: https://columbia.edu/
+2024-09-17 22:02:33,294:INFO:Processed https://files.wordpress.com/: 23 <script> tags.
+2024-09-17 22:02:33,381:ERROR:Error processing https://picasaweb.google.com/: 404 Client Error: Not Found for url: https://get.google.com/albumarchive/pwa/
+2024-09-17 22:02:33,420:ERROR:Error processing https://ucoz.ru/: HTTPSConnectionPool(host='ucoz.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104cb9350>: Failed to resolve 'ucoz.ru' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:33,475:INFO:Processed https://quora.com/: 22 <script> tags.
+2024-09-17 22:02:33,493:INFO:Processed https://zendesk.com/: 34 <script> tags.
+2024-09-17 22:02:33,950:INFO:Processed https://goo.ne.jp/: 36 <script> tags.
+2024-09-17 22:02:33,978:INFO:Processed https://fr.wikipedia.org/: 4 <script> tags.
+2024-09-17 22:02:34,016:ERROR:Error processing https://histats.com/: HTTPSConnectionPool(host='histats.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a2d95d0>: Failed to resolve 'histats.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:34,098:INFO:Processed https://about.me/: 4 <script> tags.
+2024-09-17 22:02:34,101:INFO:Processed https://google.ru/: 13 <script> tags.
+2024-09-17 22:02:34,322:INFO:Processed https://bitly.com/: 26 <script> tags.
+2024-09-17 22:02:34,500:INFO:Processed https://nytimes.com/: 30 <script> tags.
+2024-09-17 22:02:34,538:INFO:Processed https://ig.com.br/: 11 <script> tags.
+2024-09-17 22:02:34,655:INFO:Processed https://disney.com/: 24 <script> tags.
+2024-09-17 22:02:34,667:INFO:Processed https://spotify.com/: 9 <script> tags.
+2024-09-17 22:02:34,857:INFO:Processed https://variety.com/: 116 <script> tags.
+2024-09-17 22:02:34,933:INFO:Processed https://uol.com.br/: 43 <script> tags.
+2024-09-17 22:02:35,029:INFO:Processed https://blackberry.com/: 11 <script> tags.
+2024-09-17 22:02:35,325:INFO:Processed https://fb.com/: 16 <script> tags.
+2024-09-17 22:02:35,369:INFO:Processed https://prnewswire.com/: 13 <script> tags.
+2024-09-17 22:02:35,375:INFO:Processed https://google.com.br/: 13 <script> tags.
+2024-09-17 22:02:35,393:ERROR:Error processing https://addthis.com/: HTTPSConnectionPool(host='addthis.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104c65ed0>: Failed to resolve 'addthis.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:35,488:INFO:Processed https://feedburner.com/: 4 <script> tags.
+2024-09-17 22:02:35,707:ERROR:Error processing https://nydailynews.com/: 403 Client Error: Forbidden for url: https://nydailynews.com/
+2024-09-17 22:02:35,777:INFO:Processed https://goo.gl/: 8 <script> tags.
+2024-09-17 22:02:35,810:INFO:Processed https://siemens.com/: 7 <script> tags.
+2024-09-17 22:02:36,031:ERROR:Error processing https://httpstat.us/404: 404 Client Error: Not Found for url: https://httpstat.us/404
+2024-09-17 22:02:36,097:ERROR:Error processing https://hm.com/: 403 Client Error: Forbidden for url: https://hm.com/
+2024-09-17 22:02:36,240:ERROR:Error processing https://pixabay.com/: 403 Client Error: Forbidden for url: https://pixabay.com/
+2024-09-17 22:02:36,262:INFO:Processed https://abril.com.br/: 19 <script> tags.
+2024-09-17 22:02:36,262:ERROR:Error processing https://ytimg.com/: HTTPSConnectionPool(host='ytimg.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a587b50>: Failed to resolve 'ytimg.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:36,569:INFO:Processed https://news.google.com/: 0 <script> tags.
+2024-09-17 22:02:36,638:INFO:Processed https://sendspace.com/: 21 <script> tags.
+2024-09-17 22:02:36,809:INFO:Processed https://gooyaabitemplates.com/: 28 <script> tags.
+2024-09-17 22:02:36,847:INFO:Processed https://abc.es/: 25 <script> tags.
+2024-09-17 22:02:36,896:INFO:Processed https://dribbble.com/: 65 <script> tags.
+2024-09-17 22:02:36,974:INFO:Processed https://britannica.com/: 36 <script> tags.
+2024-09-17 22:02:37,248:ERROR:Error processing https://fda.gov/: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+2024-09-17 22:02:37,668:INFO:Processed https://cnn.com/: 12 <script> tags.
+2024-09-17 22:02:37,672:INFO:Processed https://linkedin.com/: 5 <script> tags.
+2024-09-17 22:02:37,900:INFO:Processed https://time.com/: 19 <script> tags.
+2024-09-17 22:02:37,925:INFO:Processed https://shopify.com/: 3 <script> tags.
+2024-09-17 22:02:37,934:INFO:Processed https://books.google.com/: 5 <script> tags.
+2024-09-17 22:02:38,178:ERROR:Error processing https://usnews.com/: HTTPSConnectionPool(host='usnews.com', port=443): Read timed out. (read timeout=10)
+2024-09-17 22:02:38,273:INFO:Processed https://soratemplates.com/: 125 <script> tags.
+2024-09-17 22:02:38,332:INFO:Processed https://walmart.com/: 61 <script> tags.
+2024-09-17 22:02:38,352:INFO:Processed https://independent.co.uk/: 21 <script> tags.
+2024-09-17 22:02:38,397:INFO:Processed https://weibo.com/: 2 <script> tags.
+2024-09-17 22:02:38,435:ERROR:Error processing https://megaupload.com/: HTTPSConnectionPool(host='megaupload.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a79cad0>: Failed to resolve 'megaupload.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:38,495:INFO:Processed https://asus.com/: 25 <script> tags.
+2024-09-17 22:02:38,610:INFO:Processed https://netflix.com/: 9 <script> tags.
+2024-09-17 22:02:38,651:INFO:Processed https://gizmodo.com/: 29 <script> tags.
+2024-09-17 22:02:38,667:INFO:Processed https://techcrunch.com/: 37 <script> tags.
+2024-09-17 22:02:38,730:ERROR:Error processing https://bp0.blogger.com/: 400 Client Error: Bad Request for url: https://bp0.blogger.com/
+2024-09-17 22:02:38,765:INFO:Processed https://mysql.com/: 9 <script> tags.
+2024-09-17 22:02:38,839:INFO:Processed https://dell.com/: 23 <script> tags.
+2024-09-17 22:02:39,175:INFO:Processed https://shutterstock.com/: 33 <script> tags.
+2024-09-17 22:02:39,190:INFO:Processed https://myaccount.google.com/: 6 <script> tags.
+2024-09-17 22:02:39,706:ERROR:Error processing https://000webhost.com/: 403 Client Error: Forbidden for url: https://000webhost.com/
+2024-09-17 22:02:39,822:ERROR:Error processing https://googleusercontent.com/: 404 Client Error: Not Found for url: https://googleusercontent.com/
+2024-09-17 22:02:39,883:INFO:Processed https://digg.com/: 27 <script> tags.
+2024-09-17 22:02:39,886:ERROR:Error processing https://xfinity.com/: 403 Client Error: Forbidden for url: https://www.xfinity.com/
+2024-09-17 22:02:39,941:INFO:Processed https://gmail.com/: 6 <script> tags.
+2024-09-17 22:02:39,947:INFO:Processed https://fb.me/: 16 <script> tags.
+2024-09-17 22:02:39,956:INFO:Processed https://slideshare.net/: 16 <script> tags.
+2024-09-17 22:02:39,967:INFO:Processed https://yadi.sk/: 6 <script> tags.
+2024-09-17 22:02:40,113:INFO:Processed https://metro.co.uk/: 37 <script> tags.
+2024-09-17 22:02:40,124:INFO:Processed https://sky.com/: 24 <script> tags.
+2024-09-17 22:02:40,261:INFO:Processed https://tinyurl.com/: 6 <script> tags.
+2024-09-17 22:02:40,302:INFO:Processed https://ria.ru/: 87 <script> tags.
+2024-09-17 22:02:40,665:INFO:Processed https://unesco.org/: 5 <script> tags.
+2024-09-17 22:02:40,856:INFO:Processed https://yandex.ru/: 6 <script> tags.
+2024-09-17 22:02:41,077:INFO:Processed https://addtoany.com/: 4 <script> tags.
+2024-09-17 22:02:41,193:ERROR:Error processing https://nifty.com/: HTTPSConnectionPool(host='nifty.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2024-09-17 22:02:41,293:ERROR:Error processing https://cambridge.org/: 403 Client Error: Forbidden for url: https://www.cambridge.org
+2024-09-17 22:02:41,317:INFO:Processed https://steamcommunity.com/: 31 <script> tags.
+2024-09-17 22:02:41,483:INFO:Processed https://noaa.gov/: 61 <script> tags.
+2024-09-17 22:02:41,581:INFO:Processed https://nba.com/: 40 <script> tags.
+2024-09-17 22:02:41,604:INFO:Processed https://mail.ru/: 87 <script> tags.
+2024-09-17 22:02:41,851:INFO:Processed https://mirror.co.uk/: 47 <script> tags.
+2024-09-17 22:02:41,882:INFO:Processed https://google.nl/: 13 <script> tags.
+2024-09-17 22:02:41,956:INFO:Processed https://mozilla.org/: 10 <script> tags.
+2024-09-17 22:02:42,148:INFO:Processed https://policies.google.com/: 20 <script> tags.
+2024-09-17 22:02:42,449:INFO:Processed https://cmu.edu/: 14 <script> tags.
+2024-09-17 22:02:42,456:INFO:Processed https://thetimes.co.uk/: 212 <script> tags.
+2024-09-17 22:02:42,508:INFO:Processed https://issuu.com/: 11 <script> tags.
+2024-09-17 22:02:42,557:INFO:Processed https://disney.go.com/: 1 <script> tags.
+2024-09-17 22:02:42,605:INFO:Processed https://merriam-webster.com/: 23 <script> tags.
+2024-09-17 22:02:42,943:INFO:Processed https://instagram.com/: 48 <script> tags.
+2024-09-17 22:02:43,161:INFO:Processed https://namecheap.com/: 27 <script> tags.
+2024-09-17 22:02:43,197:INFO:Processed https://hollywoodreporter.com/: 112 <script> tags.
+2024-09-17 22:02:43,450:INFO:Processed https://stackoverflow.com/: 32 <script> tags.
+2024-09-17 22:02:43,905:INFO:Processed https://ustream.tv/: 12 <script> tags.
+2024-09-17 22:02:44,039:INFO:Processed https://imdb.com/: 191 <script> tags.
+2024-09-17 22:02:44,052:INFO:Processed https://about.com/: 19 <script> tags.
+2024-09-17 22:02:44,078:INFO:Processed https://github.com/: 54 <script> tags.
+2024-09-17 22:02:44,239:INFO:Processed https://medium.com/: 15 <script> tags.
+2024-09-17 22:02:44,281:INFO:Processed https://amazon.in/: 132 <script> tags.
+2024-09-17 22:02:44,541:INFO:Processed https://hp.com/: 16 <script> tags.
+2024-09-17 22:02:44,606:INFO:Processed https://globo.com/: 58 <script> tags.
+2024-09-17 22:02:44,729:INFO:Processed https://marriott.com/: 29 <script> tags.
+2024-09-17 22:02:44,756:INFO:Processed https://nbcnews.com/: 44 <script> tags.
+2024-09-17 22:02:44,865:ERROR:Error processing https://buydomains.com/: 403 Client Error: Forbidden for url: https://buydomains.com/
+2024-09-17 22:02:44,917:INFO:Processed https://mercurynews.com/: 40 <script> tags.
+2024-09-17 22:02:44,994:INFO:Processed https://bit.ly/: 26 <script> tags.
+2024-09-17 22:02:45,209:INFO:Processed https://dailymotion.com/: 19 <script> tags.
+2024-09-17 22:02:45,256:INFO:Processed https://rambler.ru/: 22 <script> tags.
+2024-09-17 22:02:45,325:INFO:Processed https://eff.org/: 8 <script> tags.
+2024-09-17 22:02:45,452:INFO:Processed https://soundcloud.com/: 20 <script> tags.
+2024-09-17 22:02:45,726:INFO:Processed https://thesun.co.uk/: 21 <script> tags.
+2024-09-17 22:02:45,836:INFO:Processed https://aol.com/: 72 <script> tags.
+2024-09-17 22:02:45,855:INFO:Processed https://office.com/: 17 <script> tags.
+2024-09-17 22:02:45,889:INFO:Processed https://businesswire.com/: 21 <script> tags.
+2024-09-17 22:02:45,901:INFO:Processed https://usa.gov/: 28 <script> tags.
+2024-09-17 22:02:46,003:INFO:Processed https://mega.nz/: 1 <script> tags.
+2024-09-17 22:02:46,008:ERROR:Error processing https://bandcamp.com/: 403 Client Error: Forbidden for url: https://bandcamp.com/
+2024-09-17 22:02:46,029:INFO:Processed https://fifa.com/: 4 <script> tags.
+2024-09-17 22:02:46,263:INFO:Processed https://bbc.com/: 20 <script> tags.
+2024-09-17 22:02:46,303:ERROR:Error processing https://aboutads.info/: HTTPSConnectionPool(host='youradchoices.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1049e3590>: Failed to resolve 'youradchoices.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:46,380:INFO:Processed https://playstation.com/: 31 <script> tags.
+2024-09-17 22:02:46,685:INFO:Processed https://psychologytoday.com/: 14 <script> tags.
+2024-09-17 22:02:46,790:ERROR:Error processing https://cisco.com/: HTTPSConnectionPool(host='cisco.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1006)')))
+2024-09-17 22:02:46,834:INFO:Processed https://ovh.co.uk/: 59 <script> tags.
+2024-09-17 22:02:47,013:INFO:Processed https://google.co.uk/: 13 <script> tags.
+2024-09-17 22:02:47,053:INFO:Processed https://elpais.com/: 19 <script> tags.
+2024-09-17 22:02:47,314:INFO:Processed https://ovh.net/: 1 <script> tags.
+2024-09-17 22:02:47,440:INFO:Processed https://rottentomatoes.com/: 24 <script> tags.
+2024-09-17 22:02:47,524:INFO:Processed https://ibm.com/: 47 <script> tags.
+2024-09-17 22:02:47,604:INFO:Processed https://amazon.de/: 101 <script> tags.
+2024-09-17 22:02:47,621:INFO:Processed https://www.canalblog.com/: 14 <script> tags.
+2024-09-17 22:02:47,633:INFO:Processed https://wordpress.org/: 14 <script> tags.
+2024-09-17 22:02:47,669:ERROR:Error processing https://storage.canalblog.com/: HTTPSConnectionPool(host='storage.canalblog.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10acb4990>: Failed to resolve 'storage.canalblog.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:48,197:INFO:Processed https://drive.google.com/: 6 <script> tags.
+2024-09-17 22:02:48,807:INFO:Processed https://debian.org/: 0 <script> tags.
+2024-09-17 22:02:48,836:INFO:Processed https://sina.com.cn/: 101 <script> tags.
+2024-09-17 22:02:48,884:INFO:Processed https://w3.org/: 4 <script> tags.
+2024-09-17 22:02:48,936:INFO:Processed https://ebay.co.uk/: 25 <script> tags.
+2024-09-17 22:02:48,952:INFO:Processed https://pl.wikipedia.org/: 4 <script> tags.
+2024-09-17 22:02:49,164:INFO:Processed https://huffingtonpost.com/: 52 <script> tags.
+2024-09-17 22:02:49,207:INFO:Processed https://daum.net/: 10 <script> tags.
+2024-09-17 22:02:49,327:INFO:Processed https://nasa.gov/: 13 <script> tags.
+2024-09-17 22:02:49,351:INFO:Processed https://standard.co.uk/: 12 <script> tags.
+2024-09-17 22:02:49,353:ERROR:Error processing https://ssl-images-amazon.com/: HTTPSConnectionPool(host='ssl-images-amazon.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10accf090>: Failed to resolve 'ssl-images-amazon.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:49,464:INFO:Processed https://google.fr/: 13 <script> tags.
+2024-09-17 22:02:49,498:INFO:Processed https://amazon.fr/: 127 <script> tags.
+2024-09-17 22:02:49,611:INFO:Processed https://youtu.be/: 42 <script> tags.
+2024-09-17 22:02:49,688:INFO:Processed https://buzzfeed.com/: 27 <script> tags.
+2024-09-17 22:02:49,704:INFO:Processed https://apache.org/: 7 <script> tags.
+2024-09-17 22:02:49,715:INFO:Processed https://last.fm/: 16 <script> tags.
+2024-09-17 22:02:50,393:INFO:Processed https://wikia.com/: 12 <script> tags.
+2024-09-17 22:02:50,407:INFO:Processed https://bloomberg.com/: 4 <script> tags.
+2024-09-17 22:02:50,694:INFO:Processed https://archives.gov/: 11 <script> tags.
+2024-09-17 22:02:50,728:INFO:Processed https://theglobeandmail.com/: 53 <script> tags.
+2024-09-17 22:02:50,922:ERROR:Error processing https://bt.com/: HTTPSConnectionPool(host='bt.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-09-17 22:02:50,923:INFO:Processed https://t-online.de/: 45 <script> tags.
+2024-09-17 22:02:50,994:INFO:Processed https://sports.yahoo.com/: 65 <script> tags.
+2024-09-17 22:02:50,996:INFO:Processed https://offset.com/: 10 <script> tags.
+2024-09-17 22:02:51,151:INFO:Processed https://huffpost.com/: 52 <script> tags.
+2024-09-17 22:02:51,155:INFO:Processed https://ipv4.google.com/: 13 <script> tags.
+2024-09-17 22:02:51,345:INFO:Processed https://calameo.com/: 4 <script> tags.
+2024-09-17 22:02:51,365:INFO:Processed https://m.wikipedia.org/: 4 <script> tags.
+2024-09-17 22:02:51,596:INFO:Processed https://elmundo.es/: 46 <script> tags.
+2024-09-17 22:02:51,707:INFO:Processed https://billboard.com/: 130 <script> tags.
+2024-09-17 22:02:51,726:INFO:Processed https://chinadaily.com.cn/: 26 <script> tags.
+2024-09-17 22:02:51,793:INFO:Processed https://marketingplatform.google.com/: 10 <script> tags.
+2024-09-17 22:02:52,091:INFO:Processed https://lifehacker.com/: 20 <script> tags.
+2024-09-17 22:02:52,131:INFO:Processed https://wired.com/: 32 <script> tags.
+2024-09-17 22:02:52,321:INFO:Processed https://www.weebly.com/: 10 <script> tags.
+2024-09-17 22:02:52,369:INFO:Processed https://networkadvertising.org/: 17 <script> tags.
+2024-09-17 22:02:52,458:INFO:Processed https://seattletimes.com/: 32 <script> tags.
+2024-09-17 22:02:52,488:INFO:Processed https://ieee.org/: 29 <script> tags.
+2024-09-17 22:02:52,553:ERROR:Error processing https://list-manage.com/: HTTPSConnectionPool(host='list-manage.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'list-manage.com'. (_ssl.c:1006)")))
+2024-09-17 22:02:52,664:INFO:Processed https://foursquare.com/: 11 <script> tags.
+2024-09-17 22:02:52,689:INFO:Processed https://translate.google.com/: 0 <script> tags.
+2024-09-17 22:02:52,821:ERROR:Error processing https://live.com/: HTTPSConnectionPool(host='www.microsoft.com', port=443): Read timed out. (read timeout=10)
+2024-09-17 22:02:52,921:INFO:Processed https://nih.gov/: 19 <script> tags.
+2024-09-17 22:02:53,141:ERROR:Error processing https://adssettings.google.com/: HTTPSConnectionPool(host='googleads.g.doubleclick.net', port=443): Max retries exceeded with url: /ads/preferences/getcookie?sig=ACi0TCh_CoyThWutRG61I1Lcnt44UF0uThYcVqVd3jSlXqwTUlHpDeGAEGarO1DmZjpu5jYVnL0n&continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw==&hl=en (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10bc3c810>: Failed to resolve 'googleads.g.doubleclick.net' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:53,221:INFO:Processed https://plus.google.com/: 13 <script> tags.
+2024-09-17 22:02:53,714:INFO:Processed https://target.com/: 155 <script> tags.
+2024-09-17 22:02:53,784:INFO:Processed https://ask.fm/: 9 <script> tags.
+2024-09-17 22:02:53,865:INFO:Processed https://so-net.ne.jp/: 9 <script> tags.
+2024-09-17 22:02:54,015:INFO:Processed https://cbslocal.com/: 8 <script> tags.
+2024-09-17 22:02:54,016:ERROR:Error processing https://home.neustar/: 403 Client Error: Forbidden for url: https://home.neustar/
+2024-09-17 22:02:54,034:INFO:Processed https://code.google.com/: 1 <script> tags.
+2024-09-17 22:02:54,116:INFO:Processed https://foxnews.com/: 86 <script> tags.
+2024-09-17 22:02:54,130:INFO:Processed https://allaboutcookies.org/: 9 <script> tags.
+2024-09-17 22:02:54,166:ERROR:Error processing https://afternic.com/: HTTPSConnectionPool(host='afternic.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10c3fa310>: Failed to resolve 'afternic.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:54,342:INFO:Processed https://amazon.com/: 3 <script> tags.
+2024-09-17 22:02:54,524:INFO:Processed https://twitter.com/: 1 <script> tags.
+2024-09-17 22:02:54,571:ERROR:Error processing https://storify.com/: HTTPSConnectionPool(host='storify.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10a31a4d0>: Failed to resolve 'storify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:54,672:INFO:Processed https://httpstat.us/202: 0 <script> tags.
+2024-09-17 22:02:54,804:INFO:Processed https://steampowered.com/: 24 <script> tags.
+2024-09-17 22:02:54,827:INFO:Processed https://harvard.edu/: 20 <script> tags.
+2024-09-17 22:02:54,937:INFO:Processed https://people.com/: 6 <script> tags.
+2024-09-17 22:02:54,977:INFO:Processed https://bbc.co.uk/: 55 <script> tags.
+2024-09-17 22:02:55,074:INFO:Processed https://it.wikipedia.org/: 5 <script> tags.
+2024-09-17 22:02:55,133:ERROR:Error processing https://naver.jp/: HTTPSConnectionPool(host='naver.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10997d550>: Failed to resolve 'naver.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:02:55,192:INFO:Processed https://evernote.com/: 15 <script> tags.
+2024-09-17 22:02:55,237:ERROR:Error processing https://godaddy.com/: 403 Client Error: Forbidden for url: https://www.godaddy.com/
+2024-09-17 22:02:55,296:INFO:Processed https://t.me/: 3 <script> tags.
+2024-09-17 22:02:55,568:INFO:Processed https://narod.ru/: 15 <script> tags.
+2024-09-17 22:02:55,574:INFO:Processed https://abc.net.au/: 23 <script> tags.
+2024-09-17 22:02:55,667:INFO:Processed https://xing.com/: 5 <script> tags.
+2024-09-17 22:02:55,729:INFO:Processed https://express.co.uk/: 79 <script> tags.
+2024-09-17 22:02:55,752:INFO:Processed https://nationalgeographic.com/: 21 <script> tags.
+2024-09-17 22:02:56,025:INFO:Processed https://ehow.com/: 25 <script> tags.
+2024-09-17 22:02:56,088:INFO:Processed https://support.google.com/: 58 <script> tags.
+2024-09-17 22:02:56,148:INFO:Processed https://dan.com/: 27 <script> tags.
+2024-09-17 22:02:56,242:INFO:Processed https://businessinsider.com/: 32 <script> tags.
+2024-09-17 22:02:56,251:INFO:Processed https://paypal.com/: 19 <script> tags.
+2024-09-17 22:02:56,353:INFO:Processed https://thestar.com/: 110 <script> tags.
+2024-09-17 22:02:56,419:INFO:Processed https://umich.edu/: 14 <script> tags.
+2024-09-17 22:02:56,462:INFO:Processed https://qq.com/: 14 <script> tags.
+2024-09-17 22:02:56,546:ERROR:Error processing https://rapidshare.com/: HTTPSConnectionPool(host='rapidshare.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x104ba6a90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2024-09-17 22:02:56,684:INFO:Processed https://asahi.com/: 32 <script> tags.
+2024-09-17 22:02:56,692:INFO:Processed https://dictionary.com/: 21 <script> tags.
+2024-09-17 22:02:56,850:INFO:Processed https://id.wikipedia.org/: 5 <script> tags.
+2024-09-17 22:02:56,859:INFO:Processed https://gravatar.com/: 11 <script> tags.
+2024-09-17 22:02:56,866:INFO:Processed https://groups.google.com/: 6 <script> tags.
+2024-09-17 22:02:56,986:INFO:Processed https://creativecommons.org/: 7 <script> tags.
+2024-09-17 22:02:57,014:INFO:Processed https://android.com/: 12 <script> tags.
+2024-09-17 22:02:57,315:ERROR:Error processing https://nokia.com/: 403 Client Error: Forbidden for url: https://www.nokia.com/
+2024-09-17 22:02:57,347:INFO:Processed https://epa.gov/: 34 <script> tags.
+2024-09-17 22:02:57,491:INFO:Processed https://upenn.edu/: 8 <script> tags.
+2024-09-17 22:02:57,721:INFO:Processed https://depositfiles.com/: 11 <script> tags.
+2024-09-17 22:02:57,743:INFO:Processed https://scribd.com/: 15 <script> tags.
+2024-09-17 22:02:58,090:INFO:Processed https://wiley.com/: 11 <script> tags.
+2024-09-17 22:02:58,125:ERROR:Error processing https://chicagotribune.com/: 403 Client Error: Forbidden for url: https://chicagotribune.com/
+2024-09-17 22:02:58,166:INFO:Processed https://archive.org/: 6 <script> tags.
+2024-09-17 22:02:58,311:ERROR:Error processing https://pcmag.com/: 403 Client Error: Forbidden for url: https://www.pcmag.com/
+2024-09-17 22:02:58,422:INFO:Processed https://ndtv.com/: 43 <script> tags.
+2024-09-17 22:02:58,527:INFO:Processed https://urbandictionary.com/: 18 <script> tags.
+2024-09-17 22:02:58,705:INFO:Processed https://ietf.org/: 5 <script> tags.
+2024-09-17 22:02:58,852:INFO:Processed https://de.wikipedia.org/: 4 <script> tags.
+2024-09-17 22:02:58,952:INFO:Processed https://ibtimes.com/: 21 <script> tags.
+2024-09-17 22:02:59,248:INFO:Processed https://bund.de/: 4 <script> tags.
+2024-09-17 22:02:59,654:INFO:Processed https://cbsnews.com/: 9 <script> tags.
+2024-09-17 22:02:59,682:INFO:Processed https://lemonde.fr/: 26 <script> tags.
+2024-09-17 22:02:59,686:INFO:Processed https://stores.jp/: 7 <script> tags.
+2024-09-17 22:02:59,789:ERROR:Error processing https://cbc.ca/: HTTPSConnectionPool(host='cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-09-17 22:02:59,978:INFO:Processed https://fool.com/: 23 <script> tags.
+2024-09-17 22:03:00,013:INFO:Processed https://twitch.tv/: 10 <script> tags.
+2024-09-17 22:03:00,039:ERROR:Error processing https://cnet.com/: HTTPSConnectionPool(host='www.cnet.com', port=443): Read timed out. (read timeout=10)
+2024-09-17 22:03:00,087:INFO:Processed https://terra.com.br/: 43 <script> tags.
+2024-09-17 22:03:00,123:INFO:Processed https://worldbank.org/: 18 <script> tags.
+2024-09-17 22:03:00,192:ERROR:Error processing https://softonic.com/: 406 Client Error: Not Acceptable for url: https://softonic.com/
+2024-09-17 22:03:00,240:ERROR:Error processing https://nhk.or.jp/: HTTPSConnectionPool(host='nhk.or.jp', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10bc10350>: Failed to resolve 'nhk.or.jp' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:03:00,403:INFO:Processed https://bing.com/: 15 <script> tags.
+2024-09-17 22:03:00,409:INFO:Processed https://nginx.org/: 0 <script> tags.
+2024-09-17 22:03:00,503:INFO:Processed https://princeton.edu/: 6 <script> tags.
+2024-09-17 22:03:00,553:INFO:Processed https://boston.com/: 61 <script> tags.
+2024-09-17 22:03:00,716:INFO:Processed https://adobe.com/: 3 <script> tags.
+2024-09-17 22:03:00,786:INFO:Processed https://tools.google.com/: 5 <script> tags.
+2024-09-17 22:03:00,947:INFO:Processed https://wp.com/: 23 <script> tags.
+2024-09-17 22:03:00,992:INFO:Processed https://excite.co.jp/: 7 <script> tags.
+2024-09-17 22:03:01,193:INFO:Processed https://docs.google.com/: 6 <script> tags.
+2024-09-17 22:03:01,310:ERROR:Error processing https://storage.googleapis.com/: 400 Client Error: Bad Request for url: https://storage.googleapis.com/
+2024-09-17 22:03:01,735:INFO:Processed https://plesk.com/: 73 <script> tags.
+2024-09-17 22:03:01,875:INFO:Processed https://e-recht24.de/: 42 <script> tags.
+2024-09-17 22:03:02,153:INFO:Processed https://youtube.com/: 42 <script> tags.
+2024-09-17 22:03:02,303:INFO:Processed https://thefreedictionary.com/: 28 <script> tags.
+2024-09-17 22:03:02,428:INFO:Processed https://naver.com/: 13 <script> tags.
+2024-09-17 22:03:02,508:INFO:Processed https://nvidia.com/: 23 <script> tags.
+2024-09-17 22:03:02,523:INFO:Processed https://ox.ac.uk/: 9 <script> tags.
+2024-09-17 22:03:02,644:INFO:Processed https://en.wikipedia.org/: 5 <script> tags.
+2024-09-17 22:03:02,728:INFO:Processed https://xbox.com/: 26 <script> tags.
+2024-09-17 22:03:02,896:INFO:Processed https://guardian.co.uk/: 23 <script> tags.
+2024-09-17 22:03:03,260:ERROR:Error processing https://sciencedirect.com/: 403 Client Error: Forbidden for url: https://www.sciencedirect.com/
+2024-09-17 22:03:03,384:ERROR:Error processing https://seesaa.net/: HTTPSConnectionPool(host='cms.blogdev', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10c2615d0>: Failed to resolve 'cms.blogdev' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:03:03,392:INFO:Processed https://discovery.com/: 38 <script> tags.
+2024-09-17 22:03:03,699:INFO:Processed https://europa.eu/: 10 <script> tags.
+2024-09-17 22:03:03,801:INFO:Processed https://google.co.id/: 13 <script> tags.
+2024-09-17 22:03:04,016:INFO:Processed https://googleblog.com/: 10 <script> tags.
+2024-09-17 22:03:04,021:INFO:Processed https://vk.com/: 16 <script> tags.
+2024-09-17 22:03:04,059:INFO:Processed https://smh.com.au/: 20 <script> tags.
+2024-09-17 22:03:04,191:INFO:Processed https://ok.ru/: 35 <script> tags.
+2024-09-17 22:03:04,510:INFO:Processed https://sites.google.com/: 6 <script> tags.
+2024-09-17 22:03:04,885:INFO:Processed https://theatlantic.com/: 17 <script> tags.
+2024-09-17 22:03:04,929:INFO:Processed https://surveymonkey.com/: 69 <script> tags.
+2024-09-17 22:03:04,992:INFO:Processed https://welt.de/: 158 <script> tags.
+2024-09-17 22:03:05,051:INFO:Processed https://aliexpress.com/: 23 <script> tags.
+2024-09-17 22:03:05,078:INFO:Processed https://pixnet.net/: 21 <script> tags.
+2024-09-17 22:03:05,096:INFO:Processed https://iso.org/: 27 <script> tags.
+2024-09-17 22:03:05,160:INFO:Processed https://abcnews.go.com/: 37 <script> tags.
+2024-09-17 22:03:05,218:INFO:Processed https://ovh.com/: 59 <script> tags.
+2024-09-17 22:03:05,362:INFO:Processed https://ja.wikipedia.org/: 5 <script> tags.
+2024-09-17 22:03:05,405:INFO:Processed https://netvibes.com/: 8 <script> tags.
+2024-09-17 22:03:05,630:INFO:Processed https://fortune.com/: 16 <script> tags.
+2024-09-17 22:03:05,867:INFO:Processed https://4shared.com/: 56 <script> tags.
+2024-09-17 22:03:05,989:ERROR:Error processing https://bp1.blogger.com/: 400 Client Error: Bad Request for url: https://bp1.blogger.com/
+2024-09-17 22:03:06,002:INFO:Processed https://wattpad.com/: 7 <script> tags.
+2024-09-17 22:03:06,272:ERROR:Error processing https://house.gov/: HTTPSConnectionPool(host='house.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-09-17 22:03:06,304:INFO:Processed https://google.ca/: 13 <script> tags.
+2024-09-17 22:03:06,453:INFO:Processed https://photos.google.com/: 17 <script> tags.
+2024-09-17 22:03:06,464:INFO:Processed https://forbes.com/: 16 <script> tags.
+2024-09-17 22:03:06,487:ERROR:Error processing https://eyjhiwueuoc.com/: HTTPSConnectionPool(host='eyjhiwueuoc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104d09cd0>: Failed to resolve 'eyjhiwueuoc.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-17 22:03:06,639:INFO:Processed https://csmonitor.com/: 15 <script> tags.
+2024-09-17 22:03:06,662:INFO:Processed https://mashable.com/: 20 <script> tags.
+2024-09-17 22:03:06,824:INFO:Processed https://greenpeace.org/: 4 <script> tags.
+2024-09-17 22:03:07,005:INFO:Processed https://www.blogger.com/: 3 <script> tags.
+2024-09-17 22:03:07,067:INFO:Processed https://goodreads.com/: 21 <script> tags.
+2024-09-17 22:03:07,251:INFO:Processed https://opera.com/: 4 <script> tags.
+2024-09-17 22:03:07,254:INFO:Processed https://myspace.com/: 11 <script> tags.
+2024-09-17 22:03:07,528:INFO:Processed https://www.over-blog.com/: 14 <script> tags.
+2024-09-17 22:03:07,653:INFO:Processed https://utexas.edu/: 13 <script> tags.
+2024-09-17 22:03:07,677:ERROR:Error processing https://kickstarter.com/: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-09-17 22:03:07,809:INFO:Processed https://sedo.com/: 9 <script> tags.
+2024-09-17 22:03:07,847:INFO:Processed https://istockphoto.com/: 20 <script> tags.
+2024-09-17 22:03:08,115:INFO:Processed https://gofundme.com/: 30 <script> tags.
+2024-09-17 22:03:08,129:INFO:Processed https://dw.com/: 2 <script> tags.
+2024-09-17 22:03:08,202:INFO:Processed https://booking.com/: 175 <script> tags.
+2024-09-17 22:03:08,383:INFO:Processed https://corriere.it/: 39 <script> tags.
+2024-09-17 22:03:08,392:INFO:Processed https://connect.over-blog.com/: 4 <script> tags.
+2024-09-17 22:03:08,428:INFO:Processed https://airbnb.com/: 46 <script> tags.
+2024-09-17 22:03:08,607:INFO:Processed https://eventbrite.com/: 36 <script> tags.
+2024-09-17 22:03:08,656:INFO:Processed https://channel4.com/: 10 <script> tags.
+2024-09-17 22:03:09,284:INFO:Processed https://whatsapp.com/: 16 <script> tags.
+2024-09-17 22:03:09,963:INFO:Processed https://amzn.to/: 3 <script> tags.
+2024-09-17 22:03:09,994:INFO:Processed https://intel.com/: 35 <script> tags.
+2024-09-17 22:03:10,162:ERROR:Error processing https://npr.org/: HTTPSConnectionPool(host='www.npr.org', port=443): Read timed out. (read timeout=10)
+2024-09-17 22:03:10,702:INFO:Processed https://yelp.com/: 35 <script> tags.
+2024-09-17 22:03:15,799:INFO:Processed https://rakuten.co.jp/: 68 <script> tags.
+2024-09-17 22:03:17,016:INFO:Processed https://washingtonpost.com/: 62 <script> tags.
+2024-09-17 22:03:17,020:INFO:Results exported to results.csv
