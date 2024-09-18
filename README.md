@@ -29,10 +29,11 @@ This assignment contains a Python script that processes a list of URLs, counts t
    - Place your `urls.txt` file in the data/ directory.
    - Ensure that it contains the URLs you want to process, separated by newlines or whitespace.
    - Example content of `urls.txt`:
+     ```arduino
      https://www.google.com
      https://www.youtube.com
      https://www.github.com
-
+     ```
 2. Navigate to the src/ directory:
    - Open a terminal and navigate to the src/ directory: `cd url_checker_assignment/src`
 
