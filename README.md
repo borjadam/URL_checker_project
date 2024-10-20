@@ -1,8 +1,8 @@
-# URL checker assignment - Bynder (by Borja González)
+# URL checker project
 
 ## Overview 
 
-This assignment contains a Python script that processes a list of URLs, counts the number of <script> tags in each webpage, and stores the results with persistence and error logging. The script is designed to handle thousands of URLs efficiently using multithreading and ensures that the data is saved for easy analysis.
+This project contains a Python script that processes a list of URLs, counts the number of <script> tags in each webpage, and stores the results with persistence and error logging. The script is designed to handle thousands of URLs efficiently using multithreading and ensures that the data is saved for easy analysis.
 
 ## Project structure
 
@@ -89,9 +89,7 @@ This assignment contains a Python script that processes a list of URLs, counts t
   - While this script is able to process thousands of URLs using multithreading, I am aware that for processing tens or hundreds of thousands of URLs, an asynchronous approach using libraries like asyncio and aiohttp could offer better performance and scalability.
   - Because of the time constraints and the scope of this assignment, I chose to implement multithreading, which provides a good balance between performance and code simplicity.
 
-## Conclusion
-
-This script meets the assignment requirements by:
+## Summary
 
 - Persisting results on disk: results are stored in a SQLite database and exported to a CSV file for easy analysis.
 - Allowing the script to be stopped and resumed: the script checks for already processed URLs and skips them, enabling resumability.
