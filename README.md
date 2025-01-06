@@ -15,7 +15,7 @@ This project contains a Python script that processes a list of URLs, counts the 
 - logs/: contains log files generated during script execution.
     - `url_checker.log`: log file capturing processing details and errors.
 - analysis/: 
-    - I'm aware this wasn't a requirement, but I included a simple Jupyter notebook in this folder that illustrates how you'd quickly analyze the results with pandas
+    - Jupyter notebook that illustrates how you'd quickly analyze the results with pandas
 - `README.md`: documentation.
 
 ## Requirements
